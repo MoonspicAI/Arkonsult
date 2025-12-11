@@ -1,114 +1,239 @@
 {
   "metadata": {
-    "generated_at": "2025-12-11T01:25:04.461Z",
+    "generated_at": "2025-12-11T02:07:41.170Z",
     "website": "Arkonsult Engineering",
-    "version": "1.0.0"
+    "version": "2.0.0",
+    "last_updated": "2025-12-11T02:07:41.170Z"
   },
   "pages": {
     "homepage": {
       "path": "/",
-      "dynamic_content": []
-    },
-    "projects_gallery": {
-      "path": "/projects-gallery",
+      "title": "Home",
+      "description": "Arkonsult Engineering Portal - Comprehensive Engineering Solutions",
       "dynamic_content": [
         {
-          "name": "Residential Buildings - PDF1",
-          "url": "https://pdfobject.com/pdf/sample.pdf",
-          "type": "endpoint",
-          "category": "Residential Buildings"
-        },
-        {
-          "name": "Educational Institutions - pdftest",
-          "url": "https://moonspicai.github.io/Arkonsult/1-to-40.pdf",
-          "type": "endpoint",
-          "category": "Educational Institutions"
+          "type": "pdf",
+          "name": "company_profile_pdf",
+          "title": "Company Profile",
+          "description": "Arkonsult Company Profile 2025",
+          "url": "",
+          "category": "company_info",
+          "updated_at": "2025-12-11T02:07:41.170Z"
         }
       ]
     },
+    "projects_gallery": {
+      "path": "/projects-gallery",
+      "title": "Projects Gallery",
+      "description": "Browse all project categories",
+      "dynamic_content": []
+    },
     "individual_project_views": {
       "path": "/individual-project-views",
+      "title": "Project Details",
+      "description": "Detailed view of individual projects with PDF documentation",
       "dynamic_content": [
         {
-          "name": "Residential Buildings - PDF1",
-          "url": "https://pdfobject.com/pdf/sample.pdf",
-          "type": "endpoint",
-          "category": "Residential Buildings"
+          "type": "pdf",
+          "name": "urban_planning_pdf",
+          "title": "Urban Planning Projects",
+          "description": "Urban planning solutions including master planning, zoning studies, and sustainable city development",
+          "url": "https://moonspicai.github.io/Arkonsult/1-to-40.pdf",
+          "category": "Planning & Development",
+          "project_id": "urban-planning",
+          "updated_at": "2025-12-11T02:07:41.170Z"
         },
         {
-          "name": "Educational Institutions - pdftest",
-          "url": "https://moonspicai.github.io/Arkonsult/1-to-40.pdf",
-          "type": "endpoint",
-          "category": "Educational Institutions"
+          "type": "pdf",
+          "name": "commercial_residential_tower_pdf",
+          "title": "Commercial & Residential Tower Projects",
+          "description": "Advanced engineering for mixed-use towers, office buildings, and luxury residential high-rises",
+          "url": "",
+          "category": "High-Rise Development",
+          "project_id": "commercial-residential-tower",
+          "updated_at": "2025-12-11T02:07:41.170Z"
+        },
+        {
+          "type": "pdf",
+          "name": "educational_universities_pdf",
+          "title": "Educational Buildings and Universities Projects",
+          "description": "Comprehensive engineering solutions for universities, schools, and research facilities",
+          "url": "",
+          "category": "Educational Facilities",
+          "project_id": "educational-universities",
+          "updated_at": "2025-12-11T02:07:41.170Z"
+        },
+        {
+          "type": "pdf",
+          "name": "hotels_chalets_pdf",
+          "title": "Hotels and Chalets Projects",
+          "description": "Specialized engineering for hotels, resorts, chalets, and luxury accommodations",
+          "url": "",
+          "category": "Hospitality",
+          "project_id": "hotels-chalets",
+          "updated_at": "2025-12-11T02:07:41.170Z"
+        },
+        {
+          "type": "pdf",
+          "name": "governmental_various_pdf",
+          "title": "Governmental and Various Projects",
+          "description": "Engineering expertise for government buildings, public facilities, and civic centers",
+          "url": "",
+          "category": "Public Infrastructure",
+          "project_id": "governmental-various",
+          "updated_at": "2025-12-11T02:07:41.170Z"
+        },
+        {
+          "type": "pdf",
+          "name": "showrooms_shopping_mixuse_pdf",
+          "title": "Showrooms Shopping Centers and Mix Use Buildings Projects",
+          "description": "Comprehensive engineering for retail spaces, shopping centers, and mixed-use developments",
+          "url": "",
+          "category": "Commercial & Retail",
+          "project_id": "showrooms-shopping-mixuse",
+          "updated_at": "2025-12-11T02:07:41.170Z"
+        },
+        {
+          "type": "pdf",
+          "name": "infrastructure_networks_pdf",
+          "title": "Infrastructure Networks Projects",
+          "description": "Advanced engineering for roads, bridges, utilities, and telecommunication infrastructure",
+          "url": "",
+          "category": "Infrastructure",
+          "project_id": "infrastructure-networks",
+          "updated_at": "2025-12-11T02:07:41.170Z"
+        },
+        {
+          "type": "pdf",
+          "name": "villas_lowrise_pdf",
+          "title": "Villas Low-rise Building Projects",
+          "description": "Specialized engineering for villas, low-rise residential buildings, and townhouses",
+          "url": "",
+          "category": "Residential",
+          "project_id": "villas-lowrise",
+          "updated_at": "2025-12-11T02:07:41.170Z"
+        },
+        {
+          "type": "pdf",
+          "name": "interior_design_pdf",
+          "title": "Interior Design Projects",
+          "description": "Complete interior design engineering including MEP integration and lighting design",
+          "url": "",
+          "category": "Design & Finishing",
+          "project_id": "interior-design",
+          "updated_at": "2025-12-11T02:07:41.170Z"
         }
       ]
     },
     "partners": {
       "path": "/partners",
-      "dynamic_content": []
+      "title": "Partners",
+      "description": "Our strategic partners and collaborators",
+      "dynamic_content": [
+        {
+          "type": "images",
+          "name": "partner_logos",
+          "title": "Partner Logos",
+          "description": "Logos of partner organizations",
+          "items": [],
+          "updated_at": "2025-12-11T02:07:41.170Z"
+        }
+      ]
     },
     "our_clients": {
       "path": "/our-clients",
-      "dynamic_content": []
+      "title": "Our Clients",
+      "description": "Companies and organizations we've worked with",
+      "dynamic_content": [
+        {
+          "type": "images",
+          "name": "client_logos",
+          "title": "Client Logos",
+          "description": "Logos of client organizations",
+          "items": [],
+          "updated_at": "2025-12-11T02:07:41.170Z"
+        }
+      ]
     },
     "services": {
       "path": "/services",
+      "title": "Services",
+      "description": "Engineering services offered by Arkonsult",
       "dynamic_content": []
     },
     "contact": {
       "path": "/contact",
+      "title": "Contact",
+      "description": "Contact information and inquiry form",
       "dynamic_content": []
     },
     "admin_dashboard": {
       "path": "/admin-dashboard",
-      "dynamic_content": [
-        {
-          "name": "PDF1",
-          "url": "https://pdfobject.com/pdf/sample.pdf",
-          "type": "endpoint",
-          "asset_id": "asset_1765403359689_oi91zivjx"
-        },
-        {
-          "name": "pdftest",
-          "url": "https://moonspicai.github.io/Arkonsult/1-to-40.pdf",
-          "type": "endpoint",
-          "asset_id": "asset_1765415396437_a7wf23om1"
-        },
-        {
-          "name": "Default No Image Placeholder",
-          "url": "/assets/images/no_image.png",
-          "type": "static_file"
-        },
-        {
-          "name": "Screenshot 1",
-          "url": "/assets/images/Screenshot_from_2025-12-09_13-53-10-1765320890377.png",
-          "type": "static_file"
-        },
-        {
-          "name": "Screenshot 2",
-          "url": "/assets/images/Screenshot_from_2025-12-09_15-08-17-1765321806006.png",
-          "type": "static_file"
-        }
-      ]
-    },
-    "asset_library": {
-      "path": "/admin-dashboard?tab=assets",
-      "dynamic_content": [
-        {
-          "name": "PDF1",
-          "url": "https://pdfobject.com/pdf/sample.pdf",
-          "type": "endpoint",
-          "asset_id": "asset_1765403359689_oi91zivjx",
-          "uploaded_at": "2025-12-10T21:49:19.689Z"
-        },
-        {
-          "name": "pdftest",
-          "url": "https://moonspicai.github.io/Arkonsult/1-to-40.pdf",
-          "type": "endpoint",
-          "asset_id": "asset_1765415396437_a7wf23om1",
-          "uploaded_at": "2025-12-11T01:09:56.437Z"
-        }
-      ]
+      "title": "Admin Dashboard",
+      "description": "Administration panel for managing site content",
+      "dynamic_content": []
     }
+  },
+  "navigation": {
+    "main_menu": [
+      {
+        "label": "Home",
+        "path": "/"
+      },
+      {
+        "label": "Services",
+        "path": "/services"
+      },
+      {
+        "label": "Projects",
+        "path": "/projects-gallery"
+      },
+      {
+        "label": "Partners",
+        "path": "/partners"
+      },
+      {
+        "label": "Clients",
+        "path": "/our-clients"
+      },
+      {
+        "label": "Contact",
+        "path": "/contact"
+      }
+    ],
+    "footer_menu": [
+      {
+        "label": "Services",
+        "path": "/services"
+      },
+      {
+        "label": "Projects",
+        "path": "/projects-gallery"
+      },
+      {
+        "label": "Partners",
+        "path": "/partners"
+      },
+      {
+        "label": "Contact",
+        "path": "/contact"
+      }
+    ]
+  },
+  "seo": {
+    "site_name": "Arkonsult Engineering",
+    "default_title": "Arkonsult Engineering Portal",
+    "default_description": "Comprehensive engineering solutions including structural, civil, MEP, and environmental engineering services",
+    "keywords": [
+      "engineering consultancy",
+      "structural engineering",
+      "civil engineering",
+      "MEP engineering",
+      "project management",
+      "geotechnical engineering",
+      "environmental engineering",
+      "urban planning",
+      "infrastructure development"
+    ]
   }
 }
