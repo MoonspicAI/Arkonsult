@@ -19,6 +19,106 @@
           "url": "",
           "category": "company_info",
           "updated_at": "2025-12-11T02:07:41.170Z"
+        },
+        {
+          "type": "text",
+          "name": "hero_main_title",
+          "content": "Engineering Excellence Through Precision & Innovation",
+          "font_color": "#ffffff",
+          "font_size": "48px",
+          "font_style": "bold",
+          "category": "hero_text",
+          "updated_at": "2025-12-11T22:23:34.269Z"
+        },
+        {
+          "type": "text",
+          "name": "hero_subtitle",
+          "content": "Transforming complex challenges into elegant solutions with comprehensive engineering capabilities and proven expertise",
+          "font_color": "#ffffff",
+          "font_size": "24px",
+          "font_style": "normal",
+          "category": "hero_text",
+          "updated_at": "2025-12-11T22:23:34.269Z"
+        },
+        {
+          "type": "text",
+          "name": "hero_button_profile",
+          "content": "Download Company Profile",
+          "font_color": "#003366",
+          "font_size": "16px",
+          "font_style": "normal",
+          "category": "hero_text",
+          "updated_at": "2025-12-11T22:23:34.269Z"
+        },
+        {
+          "type": "text",
+          "name": "hero_button_services",
+          "content": "Explore Our Services",
+          "font_color": "#ffffff",
+          "font_size": "16px",
+          "font_style": "normal",
+          "category": "hero_text",
+          "updated_at": "2025-12-11T22:23:34.269Z"
+        },
+        {
+          "type": "text",
+          "name": "stat_experience_value",
+          "content": "15+ Years",
+          "font_color": "#ffffff",
+          "font_size": "32px",
+          "font_style": "bold",
+          "category": "hero_stats",
+          "updated_at": "2025-12-11T22:23:34.269Z"
+        },
+        {
+          "type": "text",
+          "name": "stat_experience_label",
+          "content": "Industry Experience",
+          "font_color": "#ffffff",
+          "font_size": "14px",
+          "font_style": "normal",
+          "category": "hero_stats",
+          "updated_at": "2025-12-11T22:23:34.269Z"
+        },
+        {
+          "type": "text",
+          "name": "stat_projects_value",
+          "content": "200+",
+          "font_color": "#ffffff",
+          "font_size": "32px",
+          "font_style": "bold",
+          "category": "hero_stats",
+          "updated_at": "2025-12-11T22:23:34.269Z"
+        },
+        {
+          "type": "text",
+          "name": "stat_projects_label",
+          "content": "Projects Completed",
+          "font_color": "#ffffff",
+          "font_size": "14px",
+          "font_style": "normal",
+          "category": "hero_stats",
+          "updated_at": "2025-12-11T22:23:34.269Z"
+        },
+        {
+          "type": "text",
+          "name": "stat_partners_value",
+          "content": "50+",
+          "font_color": "#ffffff",
+          "font_size": "32px",
+          "font_style": "bold",
+          "category": "hero_stats",
+          "updated_at": "2025-12-11T22:23:34.269Z"
+        },
+        {
+          "type": "text",
+          "name": "stat_partners_label",
+          "content": "Strategic Partners",
+          "font_color": "#ffffff",
+          "font_size": "14px",
+          "font_style": "normal",
+          "category": "hero_stats",
+          "updated_at": "2025-12-11T22:23:34.269Z"
         }
       ]
     },
