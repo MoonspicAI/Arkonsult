@@ -247,7 +247,7 @@
         }
       ]
     },
-    "clients": {
+     "clients": {
       "path": "/clients",
       "title": "Clients",
       "description": "Our strategic clients and collaborators",
@@ -311,10 +311,126 @@
           "description": "Logos of client organizations",
           "items": [],
           "updated_at": "2025-12-11T19:45:52.384Z"
+        },
+        {
+          "type": "text",
+          "name": "partnerships_title",
+          "content": "Strategic Partnerships",
+          "font_color": "#1a1a1a",
+          "font_size": "32px",
+          "font_style": "bold",
+          "category": "partnerships_section",
+          "updated_at": "2025-12-11T23:42:03.000Z"
+        },
+        {
+          "type": "text",
+          "name": "partnerships_description",
+          "content": "Building excellence through collaboration. Our strategic alliances represent decades of combined expertise, enabling us to deliver comprehensive engineering solutions that exceed expectations.",
+          "font_color": "#666666",
+          "font_size": "18px",
+          "font_style": "normal",
+          "category": "partnerships_section",
+          "updated_at": "2025-12-11T23:42:03.000Z"
+        },
+        {
+          "type": "text",
+          "name": "stat_partners_value",
+          "content": "50+",
+          "font_color": "#003366",
+          "font_size": "32px",
+          "font_style": "bold",
+          "category": "partnerships_stats",
+          "updated_at": "2025-12-11T23:42:03.000Z"
+        },
+        {
+          "type": "text",
+          "name": "stat_partners_label",
+          "content": "Active Partners",
+          "font_color": "#1a1a1a",
+          "font_size": "18px",
+          "font_style": "bold",
+          "category": "partnerships_stats",
+          "updated_at": "2025-12-11T23:42:03.000Z"
+        },
+        {
+          "type": "text",
+          "name": "stat_years_value",
+          "content": "15+",
+          "font_color": "#003366",
+          "font_size": "32px",
+          "font_style": "bold",
+          "category": "partnerships_stats",
+          "updated_at": "2025-12-11T23:42:03.000Z"
+        },
+        {
+          "type": "text",
+          "name": "stat_years_label",
+          "content": "Years Collaboration",
+          "font_color": "#1a1a1a",
+          "font_size": "18px",
+          "font_style": "bold",
+          "category": "partnerships_stats",
+          "updated_at": "2025-12-11T23:42:03.000Z"
+        },
+        {
+          "type": "text",
+          "name": "stat_projects_value",
+          "content": "200+",
+          "font_color": "#003366",
+          "font_size": "32px",
+          "font_style": "bold",
+          "category": "partnerships_stats",
+          "updated_at": "2025-12-11T23:42:03.000Z"
+        },
+        {
+          "type": "text",
+          "name": "stat_projects_label",
+          "content": "Joint Projects",
+          "font_color": "#1a1a1a",
+          "font_size": "18px",
+          "font_style": "bold",
+          "category": "partnerships_stats",
+          "updated_at": "2025-12-11T23:42:03.000Z"
+        },
+        {
+          "type": "media_content",
+          "name": "clients_media_gallery",
+          "title": "Our Clients Gallery",
+          "description": "Explore our client partnerships and success stories",
+          "items": [
+            {
+              "type": "image",
+              "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+              "alt": "Modern corporate office building with glass facade representing strategic business partnership",
+              "caption": "Strategic Client - Office Complex Development",
+              "order": 1
+            },
+            {
+              "type": "youtube",
+              "videoId": "dQw4w9WgXcQ",
+              "title": "Client Success Story",
+              "caption": "Watch how our client relationships deliver exceptional results",
+              "order": 2
+            },
+            {
+              "type": "image",
+              "url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+              "alt": "Professional business team meeting discussing engineering project collaboration",
+              "caption": "Collaborative Engineering Excellence",
+              "order": 3
+            },
+            {
+              "type": "youtube",
+              "videoId": "dQw4w9WgXcQ",
+              "title": "Engineering Innovation Together",
+              "caption": "Collaborative innovation in engineering solutions",
+              "order": 4
+            }
+          ],
+          "updated_at": "2025-12-11T23:42:03.000Z"
         }
       ]
-    },
-    "services": {
+    },   "services": {
       "path": "/services",
       "title": "Services",
       "description": "Engineering services offered by Arkonsult",
