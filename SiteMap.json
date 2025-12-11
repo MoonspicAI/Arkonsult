@@ -38,93 +38,99 @@
           "name": "urban_planning_pdf",
           "title": "Urban Planning Projects",
           "description": "Urban planning solutions including master planning, zoning studies, and sustainable city development",
-          "url": "https://moonspicai.github.io/Arkonsult/1-to-40.pdf",
+          "url": "https://moonspicai.github.io/Arkonsult/PDFs/1.pdf",
           "category": "Planning & Development",
           "project_id": "urban-planning",
           "updated_at": "2025-12-11T02:07:41.170Z",
-          "cover_image_link":"https://moonspicai.github.io/Arkonsult/B.png"
+          "cover_image_link": "https://moonspicai.github.io/Arkonsult/Images/1.png"
         },
         {
           "type": "pdf",
           "name": "commercial_residential_tower_pdf",
           "title": "Commercial & Residential Tower Projects",
           "description": "Advanced engineering for mixed-use towers, office buildings, and luxury residential high-rises",
-          "url": "https://moonspicai.github.io/Arkonsult/50to70.pdf",
+          "url": "https://moonspicai.github.io/Arkonsult/PDFs/2.pdf",
           "category": "High-Rise Development",
           "project_id": "commercial-residential-tower",
           "updated_at": "2025-12-11T02:07:41.170Z",
-          "cover_image_link":"https://moonspicai.github.io/Arkonsult/E.png"
+          "cover_image_link": "https://moonspicai.github.io/Arkonsult/Images/2.png"
         },
         {
           "type": "pdf",
           "name": "educational_universities_pdf",
           "title": "Educational Buildings and Universities Projects",
           "description": "Comprehensive engineering solutions for universities, schools, and research facilities",
-          "url": "https://moonspicai.github.io/Arkonsult/40-to-50.pdf",
+          "url": "https://moonspicai.github.io/Arkonsult/PDFs/3.pdf",
           "category": "Educational Facilities",
           "project_id": "educational-universities",
           "updated_at": "2025-12-11T02:07:41.170Z",
-          "cover_image_link":"https://moonspicai.github.io/Arkonsult/ImageA.png"
+          "cover_image_link": "https://moonspicai.github.io/Arkonsult/Images/3.png"
         },
         {
           "type": "pdf",
           "name": "hotels_chalets_pdf",
           "title": "Hotels and Chalets Projects",
           "description": "Specialized engineering for hotels, resorts, chalets, and luxury accommodations",
-          "url": "",
+          "url": "https://moonspicai.github.io/Arkonsult/PDFs/4.pdf",
           "category": "Hospitality",
           "project_id": "hotels-chalets",
-          "updated_at": "2025-12-11T02:07:41.170Z"
+          "updated_at": "2025-12-11T02:07:41.170Z",
+          "cover_image_link": "https://moonspicai.github.io/Arkonsult/Images/4.png"
         },
         {
           "type": "pdf",
           "name": "governmental_various_pdf",
           "title": "Governmental and Various Projects",
           "description": "Engineering expertise for government buildings, public facilities, and civic centers",
-          "url": "https://moonspicai.github.io/Arkonsult/50to70.pdf",
+          "url": "https://moonspicai.github.io/Arkonsult/PDFs/5.pdf",
           "category": "Public Infrastructure",
           "project_id": "governmental-various",
-          "updated_at": "2025-12-11T02:07:41.170Z"
+          "updated_at": "2025-12-11T02:07:41.170Z",
+          "cover_image_link": "https://moonspicai.github.io/Arkonsult/Images/5.png"
         },
         {
           "type": "pdf",
           "name": "showrooms_shopping_mixuse_pdf",
           "title": "Showrooms Shopping Centers and Mix Use Buildings Projects",
           "description": "Comprehensive engineering for retail spaces, shopping centers, and mixed-use developments",
-          "url": "",
+          "url": "https://moonspicai.github.io/Arkonsult/PDFs/6.pdf",
           "category": "Commercial & Retail",
           "project_id": "showrooms-shopping-mixuse",
-          "updated_at": "2025-12-11T02:07:41.170Z"
+          "updated_at": "2025-12-11T02:07:41.170Z",
+          "cover_image_link": "https://moonspicai.github.io/Arkonsult/Images/6.png"
         },
         {
           "type": "pdf",
           "name": "infrastructure_networks_pdf",
           "title": "Infrastructure Networks Projects",
           "description": "Advanced engineering for roads, bridges, utilities, and telecommunication infrastructure",
-          "url": "",
+          "url": "https://moonspicai.github.io/Arkonsult/PDFs/7.pdf",
           "category": "Infrastructure",
           "project_id": "infrastructure-networks",
-          "updated_at": "2025-12-11T02:07:41.170Z"
+          "updated_at": "2025-12-11T02:07:41.170Z",
+          "cover_image_link": "https://moonspicai.github.io/Arkonsult/Images/7.png"
         },
         {
           "type": "pdf",
           "name": "villas_lowrise_pdf",
           "title": "Villas Low-rise Building Projects",
           "description": "Specialized engineering for villas, low-rise residential buildings, and townhouses",
-          "url": "",
+          "url": "https://moonspicai.github.io/Arkonsult/PDFs/8.pdf",
           "category": "Residential",
           "project_id": "villas-lowrise",
-          "updated_at": "2025-12-11T02:07:41.170Z"
+          "updated_at": "2025-12-11T02:07:41.170Z",
+          "cover_image_link": "https://moonspicai.github.io/Arkonsult/Images/8.png"
         },
         {
           "type": "pdf",
           "name": "interior_design_pdf",
           "title": "Interior Design Projects",
           "description": "Complete interior design engineering including MEP integration and lighting design",
-          "url": "",
+          "url": "https://moonspicai.github.io/Arkonsult/PDFs/9.pdf",
           "category": "Design & Finishing",
           "project_id": "interior-design",
-          "updated_at": "2025-12-11T02:07:41.170Z"
+          "updated_at": "2025-12-11T02:07:41.170Z",
+          "cover_image_link": "https://moonspicai.github.io/Arkonsult/Images/9.png"
         }
       ]
     },
