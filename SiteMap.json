@@ -41,7 +41,8 @@
           "url": "https://moonspicai.github.io/Arkonsult/1-to-40.pdf",
           "category": "Planning & Development",
           "project_id": "urban-planning",
-          "updated_at": "2025-12-11T02:07:41.170Z"
+          "updated_at": "2025-12-11T02:07:41.170Z",
+          "cover_image_link":"https://moonspicai.github.io/Arkonsult/B.png"
         },
         {
           "type": "pdf",
@@ -51,7 +52,8 @@
           "url": "",
           "category": "High-Rise Development",
           "project_id": "commercial-residential-tower",
-          "updated_at": "2025-12-11T02:07:41.170Z"
+          "updated_at": "2025-12-11T02:07:41.170Z",
+          "cover_image_link":"https://moonspicai.github.io/Arkonsult/C.png"
         },
         {
           "type": "pdf",
