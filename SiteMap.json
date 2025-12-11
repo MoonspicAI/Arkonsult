@@ -1,0 +1,114 @@
+{
+  "metadata": {
+    "generated_at": "2025-12-11T01:25:04.461Z",
+    "website": "Arkonsult Engineering",
+    "version": "1.0.0"
+  },
+  "pages": {
+    "homepage": {
+      "path": "/",
+      "dynamic_content": []
+    },
+    "projects_gallery": {
+      "path": "/projects-gallery",
+      "dynamic_content": [
+        {
+          "name": "Residential Buildings - PDF1",
+          "url": "https://pdfobject.com/pdf/sample.pdf",
+          "type": "endpoint",
+          "category": "Residential Buildings"
+        },
+        {
+          "name": "Educational Institutions - pdftest",
+          "url": "https://moonspicai.github.io/Arkonsult/1-to-40.pdf",
+          "type": "endpoint",
+          "category": "Educational Institutions"
+        }
+      ]
+    },
+    "individual_project_views": {
+      "path": "/individual-project-views",
+      "dynamic_content": [
+        {
+          "name": "Residential Buildings - PDF1",
+          "url": "https://pdfobject.com/pdf/sample.pdf",
+          "type": "endpoint",
+          "category": "Residential Buildings"
+        },
+        {
+          "name": "Educational Institutions - pdftest",
+          "url": "https://moonspicai.github.io/Arkonsult/1-to-40.pdf",
+          "type": "endpoint",
+          "category": "Educational Institutions"
+        }
+      ]
+    },
+    "partners": {
+      "path": "/partners",
+      "dynamic_content": []
+    },
+    "our_clients": {
+      "path": "/our-clients",
+      "dynamic_content": []
+    },
+    "services": {
+      "path": "/services",
+      "dynamic_content": []
+    },
+    "contact": {
+      "path": "/contact",
+      "dynamic_content": []
+    },
+    "admin_dashboard": {
+      "path": "/admin-dashboard",
+      "dynamic_content": [
+        {
+          "name": "PDF1",
+          "url": "https://pdfobject.com/pdf/sample.pdf",
+          "type": "endpoint",
+          "asset_id": "asset_1765403359689_oi91zivjx"
+        },
+        {
+          "name": "pdftest",
+          "url": "https://moonspicai.github.io/Arkonsult/1-to-40.pdf",
+          "type": "endpoint",
+          "asset_id": "asset_1765415396437_a7wf23om1"
+        },
+        {
+          "name": "Default No Image Placeholder",
+          "url": "/assets/images/no_image.png",
+          "type": "static_file"
+        },
+        {
+          "name": "Screenshot 1",
+          "url": "/assets/images/Screenshot_from_2025-12-09_13-53-10-1765320890377.png",
+          "type": "static_file"
+        },
+        {
+          "name": "Screenshot 2",
+          "url": "/assets/images/Screenshot_from_2025-12-09_15-08-17-1765321806006.png",
+          "type": "static_file"
+        }
+      ]
+    },
+    "asset_library": {
+      "path": "/admin-dashboard?tab=assets",
+      "dynamic_content": [
+        {
+          "name": "PDF1",
+          "url": "https://pdfobject.com/pdf/sample.pdf",
+          "type": "endpoint",
+          "asset_id": "asset_1765403359689_oi91zivjx",
+          "uploaded_at": "2025-12-10T21:49:19.689Z"
+        },
+        {
+          "name": "pdftest",
+          "url": "https://moonspicai.github.io/Arkonsult/1-to-40.pdf",
+          "type": "endpoint",
+          "asset_id": "asset_1765415396437_a7wf23om1",
+          "uploaded_at": "2025-12-11T01:09:56.437Z"
+        }
+      ]
+    }
+  }
+}
