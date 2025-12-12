@@ -1021,11 +1021,35 @@
           "items": [
             {
               "type": "image",
-              "url": "https://moonspicai.github.io/Arkonsult/Images/services.png",
-              "alt": "",
+              "url": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5",
+              "alt": "Engineering blueprints and construction plans on desk with measuring tools",
               "caption": "Precision Engineering Design and Planning",
               "order": 1
+            },
+            {
+              "type": "youtube",
+              "videoId": "dQw4w9WgXcQ",
+              "title": "Engineering Excellence Showcase",
+              "caption": "Experience our comprehensive engineering capabilities",
+              "order": 2
+            },
+            {
+              "type": "image",
+              "url": "https://images.unsplash.com/photo-1503387762-592deb58ef4e",
+              "alt": "Construction site with heavy machinery and structural steel framework being erected",
+              "caption": "On-Site Engineering Implementation",
+              "order": 3
+            },
+            {
+              "type": "youtube",
+              "videoId": "dQw4w9WgXcQ",
+              "title": "Innovative Engineering Solutions",
+              "caption": "Transforming complex challenges into elegant solutions",
+              "order": 4
             }
+          ],
+          "updated_at": "2025-12-11T22:58:46.267Z"
+        }
       ]
     },
     "contact": {
