@@ -3,7 +3,7 @@
     "generated_at": "2025-12-11T02:07:41.170Z",
     "website": "Arkonsult Engineering",
     "version": "2.0.0",
-    "last_updated": "2025-12-11T19:45:52.384Z"
+    "last_updated": "2025-12-12T18:25:37.990Z"
   },
   "company_info": {
     "logo": {
@@ -247,12 +247,32 @@
         }
       ]
     },
-    "projects_gallery": {
-      "path": "/projects-gallery",
-      "title": "Projects Gallery",
-      "description": "Browse all project categories",
+    "gallery": {
+      "path": "/gallery",
+      "title": "Gallery",
+      "description": "Dynamic multimedia gallery showcasing Arkonsult's visual portfolio",
       "dynamic_content": [
-         {
+        {
+          "type": "text",
+          "name": "gallery_hero_title",
+          "content": "Visual Excellence Portfolio",
+          "font_color": "#ffffff",
+          "font_size": "48px",
+          "font_style": "bold",
+          "category": "hero_section",
+          "updated_at": "2025-12-12T18:25:37.990Z"
+        },
+        {
+          "type": "text",
+          "name": "gallery_hero_subtitle",
+          "content": "Explore our comprehensive collection of project imagery, construction progress documentation, and promotional content showcasing engineering excellence across diverse disciplines.",
+          "font_color": "#ffffff",
+          "font_size": "20px",
+          "font_style": "normal",
+          "category": "hero_section",
+          "updated_at": "2025-12-12T18:25:37.990Z"
+        },
+        {
           "type": "media_content",
           "name": "gallery_media_collection",
           "title": "Engineering Excellence in Motion",
@@ -271,8 +291,86 @@
               "title": "Structural Engineering Showcase",
               "caption": "Advanced structural systems and innovative building solutions",
               "order": 2
+            },
+            {
+              "type": "image",
+              "url": "https://images.unsplash.com/photo-1503387762-592deb58ef4e",
+              "alt": "Modern construction site showing steel framework and concrete structure with construction cranes and heavy machinery",
+              "caption": "Active Construction Progress",
+              "order": 3
+            },
+            {
+              "type": "image",
+              "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+              "alt": "Contemporary glass office building facade with modern architectural design featuring geometric patterns and reflective surfaces",
+              "caption": "Completed Commercial Development",
+              "order": 4
+            },
+            {
+              "type": "youtube",
+              "videoId": "dQw4w9WgXcQ",
+              "title": "MEP Systems Integration",
+              "caption": "Comprehensive mechanical, electrical, and plumbing engineering",
+              "order": 5
+            },
+            {
+              "type": "image",
+              "url": "https://img.rocket.new/generatedImages/rocket_gen_img_170d37759-1765093092088.png",
+              "alt": "Structural engineering showing exposed steel beams and concrete columns during construction phase",
+              "caption": "Structural Systems Excellence",
+              "order": 6
+            },
+            {
+              "type": "image",
+              "url": "https://img.rocket.new/generatedImages/rocket_gen_img_1e5defea4-1764907062557.png",
+              "alt": "Civil infrastructure project with highway construction showing earthwork operations and heavy construction equipment",
+              "caption": "Infrastructure Development",
+              "order": 7
+            },
+            {
+              "type": "youtube",
+              "videoId": "dQw4w9WgXcQ",
+              "title": "Project Management Excellence",
+              "caption": "Comprehensive project delivery from concept to completion",
+              "order": 8
+            },
+            {
+              "type": "image",
+              "url": "https://img.rocket.new/generatedImages/rocket_gen_img_1c01c98d8-1765004714774.png",
+              "alt": "Complex MEP systems installation showing industrial pipes, HVAC ducts, and electrical conduits in modern building",
+              "caption": "Advanced Building Systems",
+              "order": 9
+            },
+            {
+              "type": "image",
+              "url": "https://images.unsplash.com/photo-1698348186158-253ce97914f9",
+              "alt": "Multi-lane highway interchange with complex road network design demonstrating transportation engineering excellence",
+              "caption": "Transportation Engineering",
+              "order": 10
+            },
+            {
+              "type": "youtube",
+              "videoId": "dQw4w9WgXcQ",
+              "title": "Sustainable Engineering Solutions",
+              "caption": "Environmental engineering and sustainable development practices",
+              "order": 11
+            },
+            {
+              "type": "image",
+              "url": "https://img.rocket.new/generatedImages/rocket_gen_img_196bb40ed-1764691196115.png",
+              "alt": "Professional project management team reviewing construction blueprints and schedules with laptops and technical documents",
+              "caption": "Strategic Project Planning",
+              "order": 12
+            },
+            {
+              "type": "youtube",
+              "videoId": "jNQXAC9IVRw",
+              "title": "First Steps to Engineering Greatness",
+              "caption": "Explore the foundational principles behind engineering excellence and innovation",
+              "order": 13
             }
-          ]
+          ],
+          "updated_at": "2025-12-12T18:25:37.990Z"
         }
       ]
     },
@@ -292,10 +390,10 @@
         {
           "type": "media_content",
           "name": "partners_media_gallery",
-          "title": "Client Gallery",
-          "description": "Explore our collaborative projects and client highlights",
+          "title": "",
+          "description": "",
           "items": [
-            {
+                        {
               "type": "image",
               "url": "https://moonspicai.github.io/Arkonsult/Images/clients.png",
               "alt": "Strategic business partnership",
@@ -982,6 +1080,10 @@
         "path": "/projects-gallery"
       },
       {
+        "label": "Gallery",
+        "path": "/gallery"
+      },
+      {
         "label": "Clients",
         "path": "/clients"
       },
@@ -1002,6 +1104,10 @@
       {
         "label": "Projects",
         "path": "/projects-gallery"
+      },
+      {
+        "label": "Gallery",
+        "path": "/gallery"
       },
       {
         "label": "Clients",
