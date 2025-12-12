@@ -14,13 +14,63 @@
     },
     "name": "Arkonsult Engineering",
     "company_profile": {
-      "pdf_url": "https://moonspicai.github.io/Arkonsult/PDFs/1.pdf",
+      "pdf_url": "/assets/company-profile.pdf",
       "title": "Arkonsult Company Profile 2025",
       "description": "Comprehensive overview of our engineering services, capabilities, and project portfolio",
       "file_name": "Arkonsult-Company-Profile-2025.pdf",
       "updated_at": "2025-12-12T20:55:11.718634"
-    }
+    },
     
+ 
+    "contact": {
+      "phone": {
+        "display": "+1 (234) 567-890",
+        "link": "tel:+1234567890"
+      },
+      "email": {
+        "general": {
+          "display": "info@arkonsult.com",
+          "link": "mailto:info@arkonsult.com"
+        },
+        "careers": {
+          "display": "careers@arkonsult.com",
+          "link": "mailto:careers@arkonsult.com"
+        }
+      },
+      "address": "123 Engineering Plaza, Tech District, City 12345"
+    },
+    "social_media": {
+      "linkedin": {
+        "name": "LinkedIn",
+        "url": "https://linkedin.com/company/arkonsult",
+        "icon": "Linkedin",
+        "color": "hover:bg-[#0077B5]"
+      },
+      "youtube": {
+        "name": "YouTube",
+        "url": "https://youtube.com/@arkonsult",
+        "icon": "Youtube",
+        "color": "hover:bg-[#FF0000]"
+      },
+      "facebook": {
+        "name": "Facebook",
+        "url": "https://facebook.com/arkonsult",
+        "icon": "Facebook",
+        "color": "hover:bg-[#1877F2]"
+      },
+      "twitter": {
+        "name": "Twitter",
+        "url": "https://twitter.com/arkonsult",
+        "icon": "Twitter",
+        "color": "hover:bg-[#1DA1F2]"
+      },
+      "instagram": {
+        "name": "Instagram",
+        "url": "https://instagram.com/arkonsult",
+        "icon": "Instagram",
+        "color": "hover:bg-[#E4405F]"
+      }
+    }
   },
   "pdf_viewer_settings": {
     "initial_zoom": 1.2,
