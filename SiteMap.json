@@ -542,6 +542,12 @@
       "title": "Services",
       "description": "Engineering services offered by Arkonsult",
       "dynamic_content": [
+        {
+          "type": "media_content",
+          "name": "services_media_gallery",
+          "title": "Services in Action",
+          "description": "See our engineering services delivering real-world solutions",
+          "items": [
            {
               "type": "image",
               "url": "https://moonspicai.github.io/Arkonsult/Images/services.png",
@@ -549,7 +555,10 @@
               "caption": "On-Site Engineering Implementation",
               "order": 3
             }
-          ]
+          ],
+          "updated_at": "2025-12-11T22:58:46.267Z"
+        }
+      ]
     },
     "contact": {
       "path": "/contact",
