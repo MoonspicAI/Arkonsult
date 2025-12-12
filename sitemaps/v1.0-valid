@@ -1,0 +1,704 @@
+{
+  "metadata": {
+    "generated_at": "2025-12-11T02:07:41.170Z",
+    "website": "Arkonsult Engineering",
+    "version": "2.0.0",
+    "last_updated": "2025-12-12T18:25:37.990Z"
+  },
+  "company_info": {
+    "logo": {
+      "url": "/assets/images/Screenshot_from_2025-12-09_13-53-10-1765320890377.png",
+      "alt": "ARKONSULT Engineering Consultants logo featuring geometric interconnected cubic shapes in white line art with company name in bold typography",
+      "width": "auto",
+      "height": "40px"
+    },
+    "name": "Arkonsult Engineering",
+    "company_profile": {
+      "pdf_url": "https://moonspicai.github.io/Arkonsult/PDFs/6.pdf",
+      "title": "Arkonsult Company Profile 2025",
+      "description": "Comprehensive overview of our engineering services, capabilities, and project portfolio",
+      "file_name": "Arkonsult-Company-Profile-2025.pdf",
+      "updated_at": "2025-12-12T20:55:11.718634"
+    },
+    
+ 
+    "contact": {
+      "phone": {
+        "display": "+1 (123) 456-678",
+        "link": "tel:+123456789"
+      },
+      "email": {
+        "general": {
+          "display": "info@arkonsult.comy",
+          "link": "mailto:info@arkonsult.com"
+        },
+        "careers": {
+          "display": "careers@arkonsult.comz",
+          "link": "mailto:careers@arkonsult.come"
+        }
+      },
+      "address": "123 Engineering Plaza, Tech District, City 123456"
+    },
+    "social_media": {
+      "linkedin": {
+        "name": "LinkedIn",
+        "url": "https://linkedin.com/company/arkonsult2",
+        "icon": "Linkedin",
+        "color": "hover:bg-[#0077B5]"
+      },
+      "youtube": {
+        "name": "YouTube",
+        "url": "https://youtube.com/@arkonsult2",
+        "icon": "Youtube",
+        "color": "hover:bg-[#FF0000]"
+      },
+      "facebook": {
+        "name": "Facebook",
+        "url": "https://facebook.com/arkonsult2",
+        "icon": "Facebook",
+        "color": "hover:bg-[#1877F2]"
+      },
+      "twitter": {
+        "name": "Twitter",
+        "url": "https://twitter.com/arkonsult2",
+        "icon": "Twitter",
+        "color": "hover:bg-[#1DA1F2]"
+      },
+      "instagram": {
+        "name": "Instagram",
+        "url": "https://instagram.com/arkonsult2",
+        "icon": "Instagram",
+        "color": "hover:bg-[#E4405F]"
+      }
+    }
+  },
+  "pdf_viewer_settings": {
+    "initial_zoom": 1.2,
+    "auto_play_interval": 3000
+  },
+  "pages": {
+    "homepage": {
+      "path": "/",
+      "title": "Home",
+      "description": "Arkonsult Engineering Portal - Comprehensive Engineering Solutions",
+      "dynamic_content": [
+        {
+          "type": "pdf",
+          "name": "company_profile_pdf",
+          "title": "Company Profile",
+          "description": "Arkonsult Company Profile 2025",
+          "url": "",
+          "category": "company_info",
+          "updated_at": "2025-12-11T19:45:52.384Z"
+        },
+        {
+          "type": "text",
+          "name": "hero_main_title",
+          "content": "Engineering Excellence Through Precision & Innovation",
+          "font_color": "#ffffff",
+          "font_size": "48px",
+          "font_style": "bold",
+          "category": "hero_text",
+          "updated_at": "2025-12-11T22:23:34.269Z"
+        },
+        {
+          "type": "text",
+          "name": "hero_subtitle",
+          "content": "Transforming complex challenges into elegant solutions with comprehensive engineering capabilities and proven expertise",
+          "font_color": "#ffffff",
+          "font_size": "24px",
+          "font_style": "normal",
+          "category": "hero_text",
+          "updated_at": "2025-12-11T22:23:34.269Z"
+        },
+        {
+          "type": "text",
+          "name": "hero_button_profile",
+          "content": "Download Company Profile",
+          "font_color": "#003366",
+          "font_size": "16px",
+          "font_style": "normal",
+          "category": "hero_text",
+          "updated_at": "2025-12-11T22:23:34.269Z"
+        },
+        {
+          "type": "text",
+          "name": "hero_button_services",
+          "content": "Explore Our Services",
+          "font_color": "#ffffff",
+          "font_size": "16px",
+          "font_style": "normal",
+          "category": "hero_text",
+          "updated_at": "2025-12-11T22:23:34.269Z"
+        },
+        {
+          "type": "text",
+          "name": "stat_experience_value",
+          "content": "15+ Years",
+          "font_color": "#ffffff",
+          "font_size": "32px",
+          "font_style": "bold",
+          "category": "hero_stats",
+          "updated_at": "2025-12-11T22:23:34.269Z"
+        },
+        {
+          "type": "text",
+          "name": "stat_experience_label",
+          "content": "Industry Experience",
+          "font_color": "#ffffff",
+          "font_size": "14px",
+          "font_style": "normal",
+          "category": "hero_stats",
+          "updated_at": "2025-12-11T22:23:34.269Z"
+        },
+        {
+          "type": "text",
+          "name": "stat_projects_value",
+          "content": "200+",
+          "font_color": "#ffffff",
+          "font_size": "32px",
+          "font_style": "bold",
+          "category": "hero_stats",
+          "updated_at": "2025-12-11T22:23:34.269Z"
+        },
+        {
+          "type": "text",
+          "name": "stat_projects_label",
+          "content": "Projects Completed",
+          "font_color": "#ffffff",
+          "font_size": "14px",
+          "font_style": "normal",
+          "category": "hero_stats",
+          "updated_at": "2025-12-11T22:23:34.269Z"
+        },
+        {
+          "type": "text",
+          "name": "stat_partners_value",
+          "content": "50+",
+          "font_color": "#ffffff",
+          "font_size": "32px",
+          "font_style": "bold",
+          "category": "hero_stats",
+          "updated_at": "2025-12-11T22:23:34.269Z"
+        },
+        {
+          "type": "text",
+          "name": "stat_partners_label",
+          "content": "Strategic Clients",
+          "font_color": "#ffffff",
+          "font_size": "14px",
+          "font_style": "normal",
+          "category": "hero_stats",
+          "updated_at": "2025-12-11T22:23:34.269Z"
+        }
+      ]
+    },
+    "projects_gallery": {
+      "path": "/projects-gallery",
+      "title": "Projects Gallery",
+      "description": "Browse all project categories",
+      "dynamic_content": []
+    },
+    "individual_project_views": {
+      "path": "/individual-project-views",
+      "title": "Project Details",
+      "description": "Detailed view of individual projects with PDF documentation",
+      "dynamic_content": [
+        {
+          "type": "pdf",
+          "name": "master_urban_planning_pdf",
+          "title": "Master Urban Planning Projects",
+          "description": "Comprehensive urban planning solutions including master planning, zoning studies, and sustainable city development",
+          "url": "https://moonspicai.github.io/Arkonsult/PDFs/1.pdf",
+          "cover_image_link": "https://moonspicai.github.io/Arkonsult/Images/1.png",
+          "category": "Planning & Development",
+          "project_id": "master-urban-planning",
+          "updated_at": "2025-12-11T19:45:52.384Z"
+        },
+        {
+          "type": "pdf",
+          "name": "residential_commercial_towers_pdf",
+          "title": "Residential & Commercial Towers Projects",
+          "description": "Advanced engineering for mixed-use towers, office buildings, and luxury residential high-rises",
+          "url": "https://moonspicai.github.io/Arkonsult/PDFs/2.pdf",
+          "cover_image_link": "https://moonspicai.github.io/Arkonsult/Images/2.png",
+          "category": "High-Rise Development",
+          "project_id": "residential-commercial-towers",
+          "updated_at": "2025-12-11T19:45:52.384Z"
+        },
+        {
+          "type": "pdf",
+          "name": "universities_educational_buildings_pdf",
+          "title": "Universities & Educational Buildings Projects",
+          "description": "Comprehensive engineering solutions for universities, schools, and research facilities",
+          "url": "https://moonspicai.github.io/Arkonsult/PDFs/3.pdf",
+          "cover_image_link": "https://moonspicai.github.io/Arkonsult/Images/3.png",
+          "category": "Educational Facilities",
+          "project_id": "universities-educational-buildings",
+          "updated_at": "2025-12-11T19:45:52.384Z"
+        },
+        {
+          "type": "pdf",
+          "name": "hotels_chalets_pdf",
+          "title": "Hotels & Chalets Projects",
+          "description": "Specialized engineering for hotels, resorts, chalets, and luxury accommodations",
+          "url": "https://moonspicai.github.io/Arkonsult/PDFs/4.pdf",
+          "cover_image_link": "https://moonspicai.github.io/Arkonsult/Images/4.png",
+          "category": "Hospitality",
+          "project_id": "hotels-chalets",
+          "updated_at": "2025-12-11T19:45:52.384Z"
+        },
+        {
+          "type": "pdf",
+          "name": "governmental_buildings_pdf",
+          "title": "Governmental Buildings Projects",
+          "description": "Engineering expertise for government buildings, public facilities, and civic centers",
+          "url": "https://moonspicai.github.io/Arkonsult/PDFs/5.pdf",
+          "cover_image_link": "https://moonspicai.github.io/Arkonsult/Images/5.png",
+          "category": "Public Infrastructure",
+          "project_id": "governmental-buildings",
+          "updated_at": "2025-12-11T19:45:52.384Z"
+        },
+        {
+          "type": "pdf",
+          "name": "showrooms_shopping_centres_pdf",
+          "title": "Showrooms & Shopping Centres Projects",
+          "description": "Comprehensive engineering for retail spaces, shopping centers, and showrooms",
+          "url": "https://moonspicai.github.io/Arkonsult/PDFs/6.pdf",
+          "cover_image_link": "https://moonspicai.github.io/Arkonsult/Images/6.png",
+          "category": "Commercial & Retail",
+          "project_id": "showrooms-shopping-centres",
+          "updated_at": "2025-12-11T19:45:52.384Z"
+        },
+        {
+          "type": "pdf",
+          "name": "infrastructures_networks_pdf",
+          "title": "Infrastructures Networks Projects",
+          "description": "Advanced engineering for roads, bridges, utilities, and telecommunication infrastructure",
+          "url": "https://moonspicai.github.io/Arkonsult/PDFs/7.pdf",
+          "cover_image_link": "https://moonspicai.github.io/Arkonsult/Images/7.png",
+          "category": "Infrastructure",
+          "project_id": "infrastructures-networks",
+          "updated_at": "2025-12-11T19:45:52.384Z"
+        },
+        {
+          "type": "pdf",
+          "name": "villas_lowrise_buildings_pdf",
+          "title": "Villas & Low-Rise Buildings Projects",
+          "description": "Specialized engineering for villas, low-rise residential buildings, and townhouses",
+          "url": "https://moonspicai.github.io/Arkonsult/PDFs/8.pdf",
+          "cover_image_link": "https://moonspicai.github.io/Arkonsult/Images/8.png",
+          "category": "Residential",
+          "project_id": "villas-lowrise-buildings",
+          "updated_at": "2025-12-11T19:45:52.384Z"
+        },
+        {
+          "type": "pdf",
+          "name": "interior_designs_pdf",
+          "title": "Interior Designs Projects",
+          "description": "Complete interior design engineering including MEP integration and lighting design",
+          "url": "https://moonspicai.github.io/Arkonsult/PDFs/9.pdf",
+          "cover_image_link": "https://moonspicai.github.io/Arkonsult/Images/9.png",
+          "category": "Design & Finishing",
+          "project_id": "interior-designs",
+          "updated_at": "2025-12-11T19:45:52.384Z"
+        }
+      ]
+    },
+    "gallery": {
+      "path": "/gallery",
+      "title": "Gallery",
+      "description": "Dynamic multimedia gallery showcasing Arkonsult's visual portfolio",
+      "dynamic_content": [
+        {
+          "type": "text",
+          "name": "gallery_hero_title",
+          "content": "Visual Excellence Portfolio",
+          "font_color": "#ffffff",
+          "font_size": "48px",
+          "font_style": "bold",
+          "category": "hero_section",
+          "updated_at": "2025-12-12T18:25:37.990Z"
+        },
+        {
+          "type": "text",
+          "name": "gallery_hero_subtitle",
+          "content": "Explore our comprehensive collection of project imagery, construction progress documentation, and promotional content showcasing engineering excellence across diverse disciplines.",
+          "font_color": "#ffffff",
+          "font_size": "20px",
+          "font_style": "normal",
+          "category": "hero_section",
+          "updated_at": "2025-12-12T18:25:37.990Z"
+        },
+        {
+          "type": "media_content",
+          "name": "gallery_media_collection",
+          "title": "Engineering Excellence in Motion",
+          "description": "Comprehensive visual documentation of our projects and capabilities",
+          "items": [
+            {
+              "type": "image",
+              "url": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5",
+              "alt": "Engineering blueprints and architectural drawings spread across desk with technical measuring instruments and design tools",
+              "caption": "Precision Design & Planning",
+              "order": 1
+            },
+            {
+              "type": "youtube",
+              "videoId": "dQw4w9WgXcQ",
+              "title": "Structural Engineering Showcase",
+              "caption": "Advanced structural systems and innovative building solutions",
+              "order": 2
+            },
+            {
+              "type": "image",
+              "url": "https://images.unsplash.com/photo-1503387762-592deb58ef4e",
+              "alt": "Modern construction site showing steel framework and concrete structure with construction cranes and heavy machinery",
+              "caption": "Active Construction Progress",
+              "order": 3
+            },
+            {
+              "type": "image",
+              "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+              "alt": "Contemporary glass office building facade with modern architectural design featuring geometric patterns and reflective surfaces",
+              "caption": "Completed Commercial Development",
+              "order": 4
+            },
+            {
+              "type": "youtube",
+              "videoId": "dQw4w9WgXcQ",
+              "title": "MEP Systems Integration",
+              "caption": "Comprehensive mechanical, electrical, and plumbing engineering",
+              "order": 5
+            },
+            {
+              "type": "image",
+              "url": "https://img.rocket.new/generatedImages/rocket_gen_img_170d37759-1765093092088.png",
+              "alt": "Structural engineering showing exposed steel beams and concrete columns during construction phase",
+              "caption": "Structural Systems Excellence",
+              "order": 6
+            },
+            {
+              "type": "image",
+              "url": "https://img.rocket.new/generatedImages/rocket_gen_img_1e5defea4-1764907062557.png",
+              "alt": "Civil infrastructure project with highway construction showing earthwork operations and heavy construction equipment",
+              "caption": "Infrastructure Development",
+              "order": 7
+            },
+            {
+              "type": "youtube",
+              "videoId": "dQw4w9WgXcQ",
+              "title": "Project Management Excellence",
+              "caption": "Comprehensive project delivery from concept to completion",
+              "order": 8
+            },
+            {
+              "type": "image",
+              "url": "https://img.rocket.new/generatedImages/rocket_gen_img_1c01c98d8-1765004714774.png",
+              "alt": "Complex MEP systems installation showing industrial pipes, HVAC ducts, and electrical conduits in modern building",
+              "caption": "Advanced Building Systems",
+              "order": 9
+            },
+            {
+              "type": "image",
+              "url": "https://images.unsplash.com/photo-1698348186158-253ce97914f9",
+              "alt": "Multi-lane highway interchange with complex road network design demonstrating transportation engineering excellence",
+              "caption": "Transportation Engineering",
+              "order": 10
+            },
+            {
+              "type": "youtube",
+              "videoId": "dQw4w9WgXcQ",
+              "title": "Sustainable Engineering Solutions",
+              "caption": "Environmental engineering and sustainable development practices",
+              "order": 11
+            },
+            {
+              "type": "image",
+              "url": "https://img.rocket.new/generatedImages/rocket_gen_img_196bb40ed-1764691196115.png",
+              "alt": "Professional project management team reviewing construction blueprints and schedules with laptops and technical documents",
+              "caption": "Strategic Project Planning",
+              "order": 12
+            },
+            {
+              "type": "youtube",
+              "videoId": "jNQXAC9IVRw",
+              "title": "First Steps to Engineering Greatness",
+              "caption": "Explore the foundational principles behind engineering excellence and innovation",
+              "order": 13
+            }
+          ],
+          "updated_at": "2025-12-12T18:25:37.990Z"
+        }
+      ]
+    },
+    "clients": {
+      "path": "/clients",
+      "title": "Clients",
+      "description": "Our strategic clients and collaborators",
+      "dynamic_content": [
+        {
+          "type": "images",
+          "name": "partner_logos",
+          "title": "Client Logos",
+          "description": "Logos of client organizations",
+          "items": [],
+          "updated_at": "2025-12-11T19:45:52.384Z"
+        },
+        {
+          "type": "media_content",
+          "name": "partners_media_gallery",
+          "title": "",
+          "description": "",
+          "items": [
+                        {
+              "type": "image",
+              "url": "https://moonspicai.github.io/Arkonsult/Images/clients.png",
+              "alt": "Strategic business partnership",
+              "caption": "Strategic Client - Office Complex Development",
+              "order": 1
+            }
+          ],
+          "updated_at": "2025-12-11T22:58:46.267Z"
+        }
+      ]
+    },
+    "our_clients": {
+      "path": "/our-clients",
+      "title": "Our Clients",
+      "description": "Companies and organizations we've worked with",
+      "dynamic_content": [
+        {
+          "type": "images",
+          "name": "client_logos",
+          "title": "Client Logos",
+          "description": "Logos of client organizations",
+          "items": [],
+          "updated_at": "2025-12-11T19:45:52.384Z"
+        },
+        {
+          "type": "text",
+          "name": "partnerships_title",
+          "content": "Strategic Partnerships",
+          "font_color": "#1a1a1a",
+          "font_size": "32px",
+          "font_style": "bold",
+          "category": "partnerships_section",
+          "updated_at": "2025-12-11T23:42:03.000Z"
+        },
+        {
+          "type": "text",
+          "name": "partnerships_description",
+          "content": "Building excellence through collaboration. Our strategic alliances represent decades of combined expertise, enabling us to deliver comprehensive engineering solutions that exceed expectations.",
+          "font_color": "#666666",
+          "font_size": "18px",
+          "font_style": "normal",
+          "category": "partnerships_section",
+          "updated_at": "2025-12-11T23:42:03.000Z"
+        },
+        {
+          "type": "text",
+          "name": "stat_partners_value",
+          "content": "50+",
+          "font_color": "#003366",
+          "font_size": "32px",
+          "font_style": "bold",
+          "category": "partnerships_stats",
+          "updated_at": "2025-12-11T23:42:03.000Z"
+        },
+        {
+          "type": "text",
+          "name": "stat_partners_label",
+          "content": "Active Partners",
+          "font_color": "#1a1a1a",
+          "font_size": "18px",
+          "font_style": "bold",
+          "category": "partnerships_stats",
+          "updated_at": "2025-12-11T23:42:03.000Z"
+        },
+        {
+          "type": "text",
+          "name": "stat_years_value",
+          "content": "15+",
+          "font_color": "#003366",
+          "font_size": "32px",
+          "font_style": "bold",
+          "category": "partnerships_stats",
+          "updated_at": "2025-12-11T23:42:03.000Z"
+        },
+        {
+          "type": "text",
+          "name": "stat_years_label",
+          "content": "Years Collaboration",
+          "font_color": "#1a1a1a",
+          "font_size": "18px",
+          "font_style": "bold",
+          "category": "partnerships_stats",
+          "updated_at": "2025-12-11T23:42:03.000Z"
+        },
+        {
+          "type": "text",
+          "name": "stat_projects_value",
+          "content": "200+",
+          "font_color": "#003366",
+          "font_size": "32px",
+          "font_style": "bold",
+          "category": "partnerships_stats",
+          "updated_at": "2025-12-11T23:42:03.000Z"
+        },
+        {
+          "type": "text",
+          "name": "stat_projects_label",
+          "content": "Joint Projects",
+          "font_color": "#1a1a1a",
+          "font_size": "18px",
+          "font_style": "bold",
+          "category": "partnerships_stats",
+          "updated_at": "2025-12-11T23:42:03.000Z"
+        },
+        {
+          "type": "media_content",
+          "name": "clients_media_gallery",
+          "title": "Our Clients Gallery",
+          "description": "Explore our client partnerships and success stories",
+          "items": [
+            {
+              "type": "image",
+              "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+              "alt": "Modern corporate office building with glass facade representing strategic business partnership",
+              "caption": "Strategic Client - Office Complex Development",
+              "order": 1
+            },
+            {
+              "type": "youtube",
+              "videoId": "dQw4w9WgXcQ",
+              "title": "Client Success Story",
+              "caption": "Watch how our client relationships deliver exceptional results",
+              "order": 2
+            },
+            {
+              "type": "image",
+              "url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+              "alt": "Professional business team meeting discussing engineering project collaboration",
+              "caption": "Collaborative Engineering Excellence",
+              "order": 3
+            },
+            {
+              "type": "youtube",
+              "videoId": "dQw4w9WgXcQ",
+              "title": "Engineering Innovation Together",
+              "caption": "Collaborative innovation in engineering solutions",
+              "order": 4
+            }
+          ],
+          "updated_at": "2025-12-11T23:42:03.000Z"
+        }
+      ]
+    },
+    "services": {
+      "path": "/services",
+      "title": "Services",
+      "description": "Engineering services offered by Arkonsult",
+      "dynamic_content": [
+        {
+          "type": "media_content",
+          "name": "services_media_gallery",
+          "title": "",
+          "description": "",
+          "items": [
+           {
+              "type": "image",
+              "url": "https://moonspicai.github.io/Arkonsult/Images/services.png",
+              "alt": "Construction site with heavy machinery and structural steel framework being erected",
+              "caption": "On-Site Engineering Implementation",
+              "order": 3
+            }
+          ],
+          "updated_at": "2025-12-11T22:58:46.267Z"
+        }
+      ]
+    },
+    "contact": {
+      "path": "/contact",
+      "title": "Contact",
+      "description": "Contact information and inquiry form",
+      "dynamic_content": []
+    },
+    "admin_dashboard": {
+      "path": "/admin-dashboard",
+      "title": "Admin Dashboard",
+      "description": "Administration panel for managing site content",
+      "dynamic_content": []
+    }
+  },
+  "navigation": {
+    "main_menu": [
+      {
+        "label": "Home",
+        "path": "/"
+      },
+      {
+        "label": "Services",
+        "path": "/services"
+      },
+      {
+        "label": "Projects",
+        "path": "/projects-gallery"
+      },
+      {
+        "label": "Gallery",
+        "path": "/gallery"
+      },
+      {
+        "label": "Clients",
+        "path": "/clients"
+      },
+      {
+        "label": "Clients",
+        "path": "/our-clients"
+      },
+      {
+        "label": "Contact",
+        "path": "/contact"
+      }
+    ],
+    "footer_menu": [
+      {
+        "label": "Services",
+        "path": "/services"
+      },
+      {
+        "label": "Projects",
+        "path": "/projects-gallery"
+      },
+      {
+        "label": "Gallery",
+        "path": "/gallery"
+      },
+      {
+        "label": "Clients",
+        "path": "/clients"
+      },
+      {
+        "label": "Contact",
+        "path": "/contact"
+      }
+    ]
+  },
+  "seo": {
+    "site_name": "Arkonsult Engineering",
+    "default_title": "Arkonsult Engineering Portal",
+    "default_description": "Comprehensive engineering solutions including structural, civil, MEP, and environmental engineering services",
+    "keywords": [
+      "engineering consultancy",
+      "structural engineering",
+      "civil engineering",
+      "MEP engineering",
+      "project management",
+      "geotechnical engineering",
+      "environmental engineering",
+      "urban planning",
+      "infrastructure development"
+    ]
+  }
+}
