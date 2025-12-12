@@ -268,31 +268,10 @@
           "items": [
             {
               "type": "image",
-              "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
-              "alt": "Modern corporate office building with glass facade representing strategic business partnership",
+              "url": "https://moonspicai.github.io/Arkonsult/Images/9.png",
+              "alt": "Strategic business partnership",
               "caption": "Strategic Client - Office Complex Development",
               "order": 1
-            },
-            {
-              "type": "youtube",
-              "videoId": "dQw4w9WgXcQ",
-              "title": "Client Success Story",
-              "caption": "Watch how our client relationships deliver exceptional results",
-              "order": 2
-            },
-            {
-              "type": "image",
-              "url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
-              "alt": "Professional business team meeting discussing engineering project collaboration",
-              "caption": "Collaborative Engineering Excellence",
-              "order": 3
-            },
-            {
-              "type": "youtube",
-              "videoId": "dQw4w9WgXcQ",
-              "title": "Engineering Innovation Together",
-              "caption": "Collaborative innovation in engineering solutions",
-              "order": 4
             }
           ],
           "updated_at": "2025-12-11T22:58:46.267Z"
