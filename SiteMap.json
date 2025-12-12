@@ -252,11 +252,24 @@
       "title": "Projects Gallery",
       "description": "Browse all project categories",
       "dynamic_content": [
-          {
+         {
+          "type": "media_content",
+          "name": "gallery_media_collection",
+          "title": "Engineering Excellence in Motion",
+          "description": "Comprehensive visual documentation of our projects and capabilities",
+          "items": [
+            {
+              "type": "image",
+              "url": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5",
+              "alt": "Engineering blueprints and architectural drawings spread across desk with technical measuring instruments and design tools",
+              "caption": "Precision Design & Planning",
+              "order": 1
+            },
+            {
               "type": "youtube",
               "videoId": "dQw4w9WgXcQ",
-              "title": "Client Success Story",
-              "caption": "Watch how our client relationships deliver exceptional results",
+              "title": "Structural Engineering Showcase",
+              "caption": "Advanced structural systems and innovative building solutions",
               "order": 2
             }
       ]
