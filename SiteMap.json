@@ -247,6 +247,20 @@
         }
       ]
     },
+    "projects_gallery": {
+      "path": "/projects-gallery",
+      "title": "Projects Gallery",
+      "description": "Browse all project categories",
+      "dynamic_content": [
+          {
+              "type": "youtube",
+              "videoId": "dQw4w9WgXcQ",
+              "title": "Client Success Story",
+              "caption": "Watch how our client relationships deliver exceptional results",
+              "order": 2
+            }
+      ]
+    },
     "clients": {
       "path": "/clients",
       "title": "Clients",
