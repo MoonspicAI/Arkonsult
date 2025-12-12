@@ -273,6 +273,7 @@
               "order": 2
             }
       ]
+    }
     },
     "clients": {
       "path": "/clients",
