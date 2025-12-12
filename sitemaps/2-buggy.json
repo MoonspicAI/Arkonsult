@@ -1,0 +1,1023 @@
+{
+  "metadata": {
+    "generated_at": "2025-12-11T02:07:41.170Z",
+    "website": "Arkonsult Engineering",
+    "version": "2.0.0",
+    "last_updated": "2025-12-11T19:45:52.384Z"
+  },
+  "company_info": {
+    "logo": {
+      "url": "/assets/images/Screenshot_from_2025-12-09_13-53-10-1765320890377.png",
+      "alt": "ARKONSULT Engineering Consultants logo featuring geometric interconnected cubic shapes in white line art with company name in bold typography",
+      "width": "auto",
+      "height": "40px"
+    },
+    "name": "Arkonsult Engineering"
+  },
+  "pdf_viewer_settings": {
+    "initial_zoom": 1.2,
+    "auto_play_interval": 3000
+  },
+  "pages": {
+    "homepage": {
+      "path": "/",
+      "title": "Home",
+      "description": "Arkonsult Engineering Portal - Comprehensive Engineering Solutions",
+      "dynamic_content": [
+        {
+          "type": "pdf",
+          "name": "company_profile_pdf",
+          "title": "Company Profile",
+          "description": "Arkonsult Company Profile 2025",
+          "url": "",
+          "category": "company_info",
+          "updated_at": "2025-12-11T19:45:52.384Z"
+        },
+        {
+          "type": "text",
+          "name": "hero_main_title",
+          "content": "Engineering Excellence Through Precision & Innovation",
+          "font_color": "#ffffff",
+          "font_size": "48px",
+          "font_style": "bold",
+          "category": "hero_text",
+          "updated_at": "2025-12-11T22:23:34.269Z"
+        },
+        {
+          "type": "text",
+          "name": "hero_subtitle",
+          "content": "Transforming complex challenges into elegant solutions with comprehensive engineering capabilities and proven expertise",
+          "font_color": "#ffffff",
+          "font_size": "24px",
+          "font_style": "normal",
+          "category": "hero_text",
+          "updated_at": "2025-12-11T22:23:34.269Z"
+        },
+        {
+          "type": "text",
+          "name": "hero_button_profile",
+          "content": "Download Company Profile",
+          "font_color": "#003366",
+          "font_size": "16px",
+          "font_style": "normal",
+          "category": "hero_text",
+          "updated_at": "2025-12-11T22:23:34.269Z"
+        },
+        {
+          "type": "text",
+          "name": "hero_button_services",
+          "content": "Explore Our Services",
+          "font_color": "#ffffff",
+          "font_size": "16px",
+          "font_style": "normal",
+          "category": "hero_text",
+          "updated_at": "2025-12-11T22:23:34.269Z"
+        },
+        {
+          "type": "text",
+          "name": "stat_experience_value",
+          "content": "15+ Years",
+          "font_color": "#ffffff",
+          "font_size": "32px",
+          "font_style": "bold",
+          "category": "hero_stats",
+          "updated_at": "2025-12-11T22:23:34.269Z"
+        },
+        {
+          "type": "text",
+          "name": "stat_experience_label",
+          "content": "Industry Experience",
+          "font_color": "#ffffff",
+          "font_size": "14px",
+          "font_style": "normal",
+          "category": "hero_stats",
+          "updated_at": "2025-12-11T22:23:34.269Z"
+        },
+        {
+          "type": "text",
+          "name": "stat_projects_value",
+          "content": "200+",
+          "font_color": "#ffffff",
+          "font_size": "32px",
+          "font_style": "bold",
+          "category": "hero_stats",
+          "updated_at": "2025-12-11T22:23:34.269Z"
+        },
+        {
+          "type": "text",
+          "name": "stat_projects_label",
+          "content": "Projects Completed",
+          "font_color": "#ffffff",
+          "font_size": "14px",
+          "font_style": "normal",
+          "category": "hero_stats",
+          "updated_at": "2025-12-11T22:23:34.269Z"
+        },
+        {
+          "type": "text",
+          "name": "stat_partners_value",
+          "content": "50+",
+          "font_color": "#ffffff",
+          "font_size": "32px",
+          "font_style": "bold",
+          "category": "hero_stats",
+          "updated_at": "2025-12-11T22:23:34.269Z"
+        },
+        {
+          "type": "text",
+          "name": "stat_partners_label",
+          "content": "Strategic Clients",
+          "font_color": "#ffffff",
+          "font_size": "14px",
+          "font_style": "normal",
+          "category": "hero_stats",
+          "updated_at": "2025-12-11T22:23:34.269Z"
+        }
+      ]
+    },
+    "projects_gallery": {
+      "path": "/projects-gallery",
+      "title": "Projects Gallery",
+      "description": "Browse all project categories",
+      "dynamic_content": []
+    },
+    "individual_project_views": {
+      "path": "/individual-project-views",
+      "title": "Project Details",
+      "description": "Detailed view of individual projects with PDF documentation",
+      "dynamic_content": [
+        {
+          "type": "pdf",
+          "name": "master_urban_planning_pdf",
+          "title": "Master Urban Planning Projects",
+          "description": "Comprehensive urban planning solutions including master planning, zoning studies, and sustainable city development",
+          "url": "",
+          "cover_image_link": "",
+          "category": "Planning & Development",
+          "project_id": "master-urban-planning",
+          "updated_at": "2025-12-11T19:45:52.384Z"
+        },
+        {
+          "type": "pdf",
+          "name": "residential_commercial_towers_pdf",
+          "title": "Residential & Commercial Towers Projects",
+          "description": "Advanced engineering for mixed-use towers, office buildings, and luxury residential high-rises",
+          "url": "",
+          "cover_image_link": "",
+          "category": "High-Rise Development",
+          "project_id": "residential-commercial-towers",
+          "updated_at": "2025-12-11T19:45:52.384Z"
+        },
+        {
+          "type": "pdf",
+          "name": "universities_educational_buildings_pdf",
+          "title": "Universities & Educational Buildings Projects",
+          "description": "Comprehensive engineering solutions for universities, schools, and research facilities",
+          "url": "",
+          "cover_image_link": "",
+          "category": "Educational Facilities",
+          "project_id": "universities-educational-buildings",
+          "updated_at": "2025-12-11T19:45:52.384Z"
+        },
+        {
+          "type": "pdf",
+          "name": "hotels_chalets_pdf",
+          "title": "Hotels & Chalets Projects",
+          "description": "Specialized engineering for hotels, resorts, chalets, and luxury accommodations",
+          "url": "",
+          "cover_image_link": "",
+          "category": "Hospitality",
+          "project_id": "hotels-chalets",
+          "updated_at": "2025-12-11T19:45:52.384Z"
+        },
+        {
+          "type": "pdf",
+          "name": "governmental_buildings_pdf",
+          "title": "Governmental Buildings Projects",
+          "description": "Engineering expertise for government buildings, public facilities, and civic centers",
+          "url": "",
+          "cover_image_link": "",
+          "category": "Public Infrastructure",
+          "project_id": "governmental-buildings",
+          "updated_at": "2025-12-11T19:45:52.384Z"
+        },
+        {
+          "type": "pdf",
+          "name": "showrooms_shopping_centres_pdf",
+          "title": "Showrooms & Shopping Centres Projects",
+          "description": "Comprehensive engineering for retail spaces, shopping centers, and showrooms",
+          "url": "",
+          "cover_image_link": "",
+          "category": "Commercial & Retail",
+          "project_id": "showrooms-shopping-centres",
+          "updated_at": "2025-12-11T19:45:52.384Z"
+        },
+        {
+          "type": "pdf",
+          "name": "infrastructures_networks_pdf",
+          "title": "Infrastructures Networks Projects",
+          "description": "Advanced engineering for roads, bridges, utilities, and telecommunication infrastructure",
+          "url": "",
+          "cover_image_link": "",
+          "category": "Infrastructure",
+          "project_id": "infrastructures-networks",
+          "updated_at": "2025-12-11T19:45:52.384Z"
+        },
+        {
+          "type": "pdf",
+          "name": "villas_lowrise_buildings_pdf",
+          "title": "Villas & Low-Rise Buildings Projects",
+          "description": "Specialized engineering for villas, low-rise residential buildings, and townhouses",
+          "url": "",
+          "cover_image_link": "",
+          "category": "Residential",
+          "project_id": "villas-lowrise-buildings",
+          "updated_at": "2025-12-11T19:45:52.384Z"
+        },
+        {
+          "type": "pdf",
+          "name": "interior_designs_pdf",
+          "title": "Interior Designs Projects",
+          "description": "Complete interior design engineering including MEP integration and lighting design",
+          "url": "",
+          "cover_image_link": "",
+          "category": "Design & Finishing",
+          "project_id": "interior-designs",
+          "updated_at": "2025-12-11T19:45:52.384Z"
+        }
+      ]
+    },
+     "clients": {
+      "path": "/clients",
+      "title": "Clients",
+      "description": "Our strategic clients and collaborators",
+      "dynamic_content": [
+        {
+          "type": "images",
+          "name": "partner_logos",
+          "title": "Client Logos",
+          "description": "Logos of client organizations",
+          "items": [],
+          "updated_at": "2025-12-11T19:45:52.384Z"
+        },
+        {
+          "type": "media_content",
+          "name": "partners_media_gallery",
+          "title": "Client Gallery",
+          "description": "Explore our collaborative projects and client highlights",
+          "items": [
+            {
+              "type": "image",
+              "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+              "alt": "Modern corporate office building with glass facade representing strategic business partnership",
+              "caption": "Strategic Client - Office Complex Development",
+              "order": 1
+            },
+            {
+              "type": "youtube",
+              "videoId": "dQw4w9WgXcQ",
+              "title": "Client Success Story",
+              "caption": "Watch how our client relationships deliver exceptional results",
+              "order": 2
+            },
+            {
+              "type": "image",
+              "url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+              "alt": "Professional business team meeting discussing engineering project collaboration",
+              "caption": "Collaborative Engineering Excellence",
+              "order": 3
+            },
+            {
+              "type": "youtube",
+              "videoId": "dQw4w9WgXcQ",
+              "title": "Engineering Innovation Together",
+              "caption": "Collaborative innovation in engineering solutions",
+              "order": 4
+            }
+          ],
+          "updated_at": "2025-12-11T22:58:46.267Z"
+        }
+      ]
+    },
+    "our_clients": {
+      "path": "/our-clients",
+      "title": "Our Clients",
+      "description": "Companies and organizations we've worked with",
+      "dynamic_content": [
+        {
+          "type": "images",
+          "name": "client_logos",
+          "title": "Client Logos",
+          "description": "Logos of client organizations",
+          "items": [],
+          "updated_at": "2025-12-11T19:45:52.384Z"
+        },
+        {
+          "type": "text",
+          "name": "partnerships_title",
+          "content": "Strategic Partnerships",
+          "font_color": "#1a1a1a",
+          "font_size": "32px",
+          "font_style": "bold",
+          "category": "partnerships_section",
+          "updated_at": "2025-12-11T23:42:03.000Z"
+        },
+        {
+          "type": "text",
+          "name": "partnerships_description",
+          "content": "Building excellence through collaboration. Our strategic alliances represent decades of combined expertise, enabling us to deliver comprehensive engineering solutions that exceed expectations.",
+          "font_color": "#666666",
+          "font_size": "18px",
+          "font_style": "normal",
+          "category": "partnerships_section",
+          "updated_at": "2025-12-11T23:42:03.000Z"
+        },
+        {
+          "type": "text",
+          "name": "stat_partners_value",
+          "content": "50+",
+          "font_color": "#003366",
+          "font_size": "32px",
+          "font_style": "bold",
+          "category": "partnerships_stats",
+          "updated_at": "2025-12-11T23:42:03.000Z"
+        },
+        {
+          "type": "text",
+          "name": "stat_partners_label",
+          "content": "Active Partners",
+          "font_color": "#1a1a1a",
+          "font_size": "18px",
+          "font_style": "bold",
+          "category": "partnerships_stats",
+          "updated_at": "2025-12-11T23:42:03.000Z"
+        },
+        {
+          "type": "text",
+          "name": "stat_years_value",
+          "content": "15+",
+          "font_color": "#003366",
+          "font_size": "32px",
+          "font_style": "bold",
+          "category": "partnerships_stats",
+          "updated_at": "2025-12-11T23:42:03.000Z"
+        },
+        {
+          "type": "text",
+          "name": "stat_years_label",
+          "content": "Years Collaboration",
+          "font_color": "#1a1a1a",
+          "font_size": "18px",
+          "font_style": "bold",
+          "category": "partnerships_stats",
+          "updated_at": "2025-12-11T23:42:03.000Z"
+        },
+        {
+          "type": "text",
+          "name": "stat_projects_value",
+          "content": "200+",
+          "font_color": "#003366",
+          "font_size": "32px",
+          "font_style": "bold",
+          "category": "partnerships_stats",
+          "updated_at": "2025-12-11T23:42:03.000Z"
+        },
+        {
+          "type": "text",
+          "name": "stat_projects_label",
+          "content": "Joint Projects",
+          "font_color": "#1a1a1a",
+          "font_size": "18px",
+          "font_style": "bold",
+          "category": "partnerships_stats",
+          "updated_at": "2025-12-11T23:42:03.000Z"
+        },
+        {
+          "type": "media_content",
+          "name": "clients_media_gallery",
+          "title": "Our Clients Gallery",
+          "description": "Explore our client partnerships and success stories",
+          "items": [
+            {
+              "type": "image",
+              "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+              "alt": "Modern corporate office building with glass facade representing strategic business partnership",
+              "caption": "Strategic Client - Office Complex Development",
+              "order": 1
+            },
+            {
+              "type": "youtube",
+              "videoId": "dQw4w9WgXcQ",
+              "title": "Client Success Story",
+              "caption": "Watch how our client relationships deliver exceptional results",
+              "order": 2
+            },
+            {
+              "type": "image",
+              "url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+              "alt": "Professional business team meeting discussing engineering project collaboration",
+              "caption": "Collaborative Engineering Excellence",
+              "order": 3
+            },
+            {
+              "type": "youtube",
+              "videoId": "dQw4w9WgXcQ",
+              "title": "Engineering Innovation Together",
+              "caption": "Collaborative innovation in engineering solutions",
+              "order": 4
+            }
+          ],
+          "updated_at": "2025-12-11T23:42:03.000Z"
+        }
+      ]
+    },   "services": {
+      "path": "/services",
+      "title": "Services",
+      "description": "Engineering services offered by Arkonsult",
+      "dynamic_content": [
+        {
+          "type": "text",
+          "name": "hero_badge_text",
+          "content": "Comprehensive Engineering Solutions",
+          "font_color": "#ffffff",
+          "font_size": "14px",
+          "font_style": "normal",
+          "category": "hero_section",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "text",
+          "name": "hero_main_title",
+          "content": "Engineering Excellence Across Nine Specialized Disciplines",
+          "font_color": "#ffffff",
+          "font_size": "48px",
+          "font_style": "bold",
+          "category": "hero_section",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "text",
+          "name": "hero_subtitle",
+          "content": "From structural integrity to environmental sustainability, our multidisciplinary team delivers comprehensive engineering solutions that transform complex challenges into elegant, buildable realities.",
+          "font_color": "#ffffff",
+          "font_size": "20px",
+          "font_style": "normal",
+          "category": "hero_section",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "text",
+          "name": "hero_badge_certified",
+          "content": "Industry Certified",
+          "font_color": "#ffffff",
+          "font_size": "14px",
+          "font_style": "normal",
+          "category": "hero_section",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "text",
+          "name": "hero_badge_team",
+          "content": "Expert Team",
+          "font_color": "#ffffff",
+          "font_size": "14px",
+          "font_style": "normal",
+          "category": "hero_section",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "text",
+          "name": "hero_badge_results",
+          "content": "Proven Results",
+          "font_color": "#ffffff",
+          "font_size": "14px",
+          "font_style": "normal",
+          "category": "hero_section",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "text",
+          "name": "stats_projects_value",
+          "content": "500+",
+          "font_color": "#003366",
+          "font_size": "36px",
+          "font_style": "bold",
+          "category": "stats_section",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "text",
+          "name": "stats_projects_label",
+          "content": "Projects Completed",
+          "font_color": "#1a1a1a",
+          "font_size": "16px",
+          "font_style": "bold",
+          "category": "stats_section",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "text",
+          "name": "stats_projects_description",
+          "content": "Across all engineering disciplines",
+          "font_color": "#666666",
+          "font_size": "14px",
+          "font_style": "normal",
+          "category": "stats_section",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "text",
+          "name": "stats_professionals_value",
+          "content": "150+",
+          "font_color": "#003366",
+          "font_size": "36px",
+          "font_style": "bold",
+          "category": "stats_section",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "text",
+          "name": "stats_professionals_label",
+          "content": "Engineering Professionals",
+          "font_color": "#1a1a1a",
+          "font_size": "16px",
+          "font_style": "bold",
+          "category": "stats_section",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "text",
+          "name": "stats_professionals_description",
+          "content": "Multidisciplinary expert team",
+          "font_color": "#666666",
+          "font_size": "14px",
+          "font_style": "normal",
+          "category": "stats_section",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "text",
+          "name": "stats_experience_value",
+          "content": "25+",
+          "font_color": "#003366",
+          "font_size": "36px",
+          "font_style": "bold",
+          "category": "stats_section",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "text",
+          "name": "stats_experience_label",
+          "content": "Years Experience",
+          "font_color": "#1a1a1a",
+          "font_size": "16px",
+          "font_style": "bold",
+          "category": "stats_section",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "text",
+          "name": "stats_experience_description",
+          "content": "Industry leadership and innovation",
+          "font_color": "#666666",
+          "font_size": "14px",
+          "font_style": "normal",
+          "category": "stats_section",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "text",
+          "name": "stats_countries_value",
+          "content": "15+",
+          "font_color": "#003366",
+          "font_size": "36px",
+          "font_style": "bold",
+          "category": "stats_section",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "text",
+          "name": "stats_countries_label",
+          "content": "Countries Served",
+          "font_color": "#1a1a1a",
+          "font_size": "16px",
+          "font_style": "bold",
+          "category": "stats_section",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "text",
+          "name": "stats_countries_description",
+          "content": "International project delivery",
+          "font_color": "#666666",
+          "font_size": "14px",
+          "font_style": "normal",
+          "category": "stats_section",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "text",
+          "name": "services_section_title",
+          "content": "Our Engineering Disciplines",
+          "font_color": "#ffffff",
+          "font_size": "36px",
+          "font_style": "bold",
+          "category": "services_section",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "text",
+          "name": "services_section_description",
+          "content": "Nine specialized service areas delivering comprehensive engineering solutions with technical excellence and proven methodologies.",
+          "font_color": "#000000",
+          "font_size": "18px",
+          "font_style": "normal",
+          "category": "services_section",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "service_card",
+          "name": "service_structural_engineering",
+          "service_id": "structural-engineering",
+          "title": "Structural Engineering",
+          "icon": "Building2",
+          "image": "https://img.rocket.new/generatedImages/rocket_gen_img_170d37759-1765093092088.png",
+          "imageAlt": "Modern steel and concrete building structure under construction showing exposed beams and columns against blue sky",
+          "description": "Comprehensive structural analysis, design, and engineering solutions ensuring safety, durability, and optimal performance for buildings and infrastructure projects of all scales.",
+          "capabilities": [
+            "Seismic and wind load analysis",
+            "Foundation design and soil-structure interaction",
+            "Steel and concrete structural systems",
+            "Structural health monitoring and assessment"
+          ],
+          "expertiseLevel": 5,
+          "category": "service_cards",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "service_card",
+          "name": "service_civil_engineering",
+          "service_id": "civil-engineering",
+          "title": "Civil Engineering",
+          "icon": "Construction",
+          "image": "https://img.rocket.new/generatedImages/rocket_gen_img_1e5defea4-1764907062557.png",
+          "imageAlt": "Large-scale civil infrastructure project showing highway construction with heavy machinery and earthwork operations",
+          "description": "End-to-end civil engineering services covering site development, transportation infrastructure, water resources, and urban planning with sustainable design principles.",
+          "capabilities": [
+            "Highway and transportation design",
+            "Site grading and drainage systems",
+            "Water supply and distribution networks",
+            "Urban infrastructure planning"
+          ],
+          "expertiseLevel": 5,
+          "category": "service_cards",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "service_card",
+          "name": "service_mep_engineering",
+          "service_id": "mep-engineering",
+          "title": "MEP Engineering",
+          "icon": "Zap",
+          "image": "https://img.rocket.new/generatedImages/rocket_gen_img_1c01c98d8-1765004714774.png",
+          "imageAlt": "Complex mechanical electrical and plumbing systems installation showing industrial pipes ducts and electrical conduits in modern building",
+          "description": "Integrated mechanical, electrical, and plumbing design services optimizing building systems for energy efficiency, comfort, and operational excellence.",
+          "capabilities": [
+            "HVAC system design and optimization",
+            "Electrical power distribution and lighting",
+            "Plumbing and fire protection systems",
+            "Building automation and controls"
+          ],
+          "expertiseLevel": 5,
+          "category": "service_cards",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "service_card",
+          "name": "service_project_management",
+          "service_id": "project-management",
+          "title": "Project Management",
+          "icon": "ClipboardCheck",
+          "image": "https://img.rocket.new/generatedImages/rocket_gen_img_196bb40ed-1764691196115.png",
+          "imageAlt": "Professional project management team reviewing construction blueprints and schedules at modern office desk with laptops and documents",
+          "description": "Strategic project management services ensuring on-time, on-budget delivery through comprehensive planning, coordination, and quality control methodologies.",
+          "capabilities": [
+            "Project planning and scheduling",
+            "Cost estimation and budget control",
+            "Risk management and mitigation",
+            "Quality assurance and compliance"
+          ],
+          "expertiseLevel": 5,
+          "category": "service_cards",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "service_card",
+          "name": "service_geotechnical_engineering",
+          "service_id": "geotechnical-engineering",
+          "title": "Geotechnical Engineering",
+          "icon": "Mountain",
+          "image": "https://img.rocket.new/generatedImages/rocket_gen_img_1164f5a46-1764862115888.png",
+          "imageAlt": "Geotechnical soil testing equipment and core samples from subsurface investigation showing different soil layers and rock formations",
+          "description": "Specialized geotechnical investigation and analysis services providing critical subsurface data for foundation design and ground improvement solutions.",
+          "capabilities": [
+            "Soil investigation and testing",
+            "Foundation design recommendations",
+            "Slope stability analysis",
+            "Ground improvement techniques"
+          ],
+          "expertiseLevel": 4,
+          "category": "service_cards",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "service_card",
+          "name": "service_environmental_engineering",
+          "service_id": "environmental-engineering",
+          "title": "Environmental Engineering",
+          "icon": "Leaf",
+          "image": "https://img.rocket.new/generatedImages/rocket_gen_img_1071e5c51-1764732294127.png",
+          "imageAlt": "Environmental engineering assessment showing water quality testing equipment and environmental monitoring instruments in natural setting",
+          "description": "Sustainable environmental engineering solutions addressing water quality, waste management, pollution control, and environmental impact assessment.",
+          "capabilities": [
+            "Environmental impact assessments",
+            "Water and wastewater treatment design",
+            "Air quality monitoring and control",
+            "Sustainable development strategies"
+          ],
+          "expertiseLevel": 4,
+          "category": "service_cards",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "service_card",
+          "name": "service_transportation_engineering",
+          "service_id": "transportation-engineering",
+          "title": "Transportation Engineering",
+          "icon": "TrafficCone",
+          "image": "https://images.unsplash.com/photo-1698348186158-253ce97914f9",
+          "imageAlt": "Modern multi-lane highway interchange with complex road network design showing traffic flow patterns and transportation infrastructure",
+          "description": "Innovative transportation engineering services optimizing traffic flow, safety, and connectivity through intelligent design and planning solutions.",
+          "capabilities": [
+            "Traffic engineering and analysis",
+            "Roadway geometric design",
+            "Intersection and interchange design",
+            "Intelligent transportation systems"
+          ],
+          "expertiseLevel": 4,
+          "category": "service_cards",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "service_card",
+          "name": "service_coastal_engineering",
+          "service_id": "coastal-engineering",
+          "title": "Coastal Engineering",
+          "icon": "Waves",
+          "image": "https://images.unsplash.com/photo-1707152530692-f6cc77e390d1",
+          "imageAlt": "Coastal protection infrastructure showing concrete seawall and wave breakers along shoreline with ocean waves and beach environment",
+          "description": "Specialized coastal and marine engineering services addressing shoreline protection, harbor design, and waterfront development challenges.",
+          "capabilities": [
+            "Coastal protection structures",
+            "Harbor and marina design",
+            "Wave and tidal analysis",
+            "Waterfront development planning"
+          ],
+          "expertiseLevel": 4,
+          "category": "service_cards",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "service_card",
+          "name": "service_forensic_engineering",
+          "service_id": "forensic-engineering",
+          "title": "Forensic Engineering",
+          "icon": "Search",
+          "image": "https://img.rocket.new/generatedImages/rocket_gen_img_1e08a3eaf-1764659924747.png",
+          "imageAlt": "Forensic engineering investigation showing detailed structural damage assessment with measurement tools and documentation equipment at failure site",
+          "description": "Expert forensic engineering investigation and analysis services identifying failure causes, providing litigation support, and recommending remedial solutions.",
+          "capabilities": [
+            "Failure analysis and investigation",
+            "Structural damage assessment",
+            "Expert witness testimony",
+            "Remediation design and oversight"
+          ],
+          "expertiseLevel": 4,
+          "category": "service_cards",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "text",
+          "name": "cta_main_title",
+          "content": "Ready to Transform Your Engineering Vision?",
+          "font_color": "#ffffff",
+          "font_size": "36px",
+          "font_style": "bold",
+          "category": "cta_section",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "text",
+          "name": "cta_subtitle",
+          "content": "Partner with Arkonsult for comprehensive engineering solutions that deliver technical excellence, innovative design, and successful project outcomes.",
+          "font_color": "#ffffff",
+          "font_size": "18px",
+          "font_style": "normal",
+          "category": "cta_section",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "text",
+          "name": "cta_button_primary",
+          "content": "Start Your Project",
+          "font_color": "#003366",
+          "font_size": "16px",
+          "font_style": "normal",
+          "category": "cta_section",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "text",
+          "name": "cta_button_secondary",
+          "content": "View Our Projects",
+          "font_color": "#ffffff",
+          "font_size": "16px",
+          "font_style": "normal",
+          "category": "cta_section",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "text",
+          "name": "cta_feature_response_title",
+          "content": "Quick Response",
+          "font_color": "#ffffff",
+          "font_size": "14px",
+          "font_style": "bold",
+          "category": "cta_section",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "text",
+          "name": "cta_feature_response_subtitle",
+          "content": "24-hour consultation",
+          "font_color": "#ffffff",
+          "font_size": "12px",
+          "font_style": "normal",
+          "category": "cta_section",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "text",
+          "name": "cta_feature_quality_title",
+          "content": "Quality Assured",
+          "font_color": "#ffffff",
+          "font_size": "14px",
+          "font_style": "bold",
+          "category": "cta_section",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "text",
+          "name": "cta_feature_quality_subtitle",
+          "content": "ISO certified processes",
+          "font_color": "#ffffff",
+          "font_size": "12px",
+          "font_style": "normal",
+          "category": "cta_section",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "text",
+          "name": "cta_feature_partner_title",
+          "content": "Trusted Partner",
+          "font_color": "#ffffff",
+          "font_size": "14px",
+          "font_style": "bold",
+          "category": "cta_section",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "text",
+          "name": "cta_feature_partner_subtitle",
+          "content": "Long-term collaboration",
+          "font_color": "#ffffff",
+          "font_size": "12px",
+          "font_style": "normal",
+          "category": "cta_section",
+          "updated_at": "2025-12-11T22:43:42.638Z"
+        },
+        {
+          "type": "media_content",
+          "name": "services_media_gallery",
+          "title": "Services in Action",
+          "description": "See our engineering services delivering real-world solutions",
+          "items": [
+            {
+              "type": "image",
+              "url": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5",
+              "alt": "Engineering blueprints and construction plans on desk with measuring tools",
+              "caption": "Precision Engineering Design and Planning",
+              "order": 1
+            },
+            {
+              "type": "youtube",
+              "videoId": "dQw4w9WgXcQ",
+              "title": "Engineering Excellence Showcase",
+              "caption": "Experience our comprehensive engineering capabilities",
+              "order": 2
+            },
+            {
+              "type": "image",
+              "url": "https://images.unsplash.com/photo-1503387762-592deb58ef4e",
+              "alt": "Construction site with heavy machinery and structural steel framework being erected",
+              "caption": "On-Site Engineering Implementation",
+              "order": 3
+            },
+            {
+              "type": "youtube",
+              "videoId": "dQw4w9WgXcQ",
+              "title": "Innovative Engineering Solutions",
+              "caption": "Transforming complex challenges into elegant solutions",
+              "order": 4
+            }
+          ],
+          "updated_at": "2025-12-11T22:58:46.267Z"
+        }
+      ]
+    },
+    "contact": {
+      "path": "/contact",
+      "title": "Contact",
+      "description": "Contact information and inquiry form",
+      "dynamic_content": []
+    },
+    "admin_dashboard": {
+      "path": "/admin-dashboard",
+      "title": "Admin Dashboard",
+      "description": "Administration panel for managing site content",
+      "dynamic_content": []
+    }
+  },
+  "navigation": {
+    "main_menu": [
+      {
+        "label": "Home",
+        "path": "/"
+      },
+      {
+        "label": "Services",
+        "path": "/services"
+      },
+      {
+        "label": "Projects",
+        "path": "/projects-gallery"
+      },
+      {
+        "label": "Clients",
+        "path": "/clients"
+      },
+      {
+        "label": "Clients",
+        "path": "/our-clients"
+      },
+      {
+        "label": "Contact",
+        "path": "/contact"
+      }
+    ],
+    "footer_menu": [
+      {
+        "label": "Services",
+        "path": "/services"
+      },
+      {
+        "label": "Projects",
+        "path": "/projects-gallery"
+      },
+      {
+        "label": "Clients",
+        "path": "/clients"
+      },
+      {
+        "label": "Contact",
+        "path": "/contact"
+      }
+    ]
+  },
+  "seo": {
+    "site_name": "Arkonsult Engineering",
+    "default_title": "Arkonsult Engineering Portal",
+    "default_description": "Comprehensive engineering solutions including structural, civil, MEP, and environmental engineering services",
+    "keywords": [
+      "engineering consultancy",
+      "structural engineering",
+      "civil engineering",
+      "MEP engineering",
+      "project management",
+      "geotechnical engineering",
+      "environmental engineering",
+      "urban planning",
+      "infrastructure development"
+    ]
+  }
+}
