@@ -24,49 +24,49 @@
  
     "contact": {
       "phone": {
-        "display": "+1 (234) 567-890",
-        "link": "tel:+1234567890"
+        "display": "+1 (123) 456-678",
+        "link": "tel:+123456789"
       },
       "email": {
         "general": {
-          "display": "info@arkonsult.com",
+          "display": "info@arkonsult.comy",
           "link": "mailto:info@arkonsult.com"
         },
         "careers": {
-          "display": "careers@arkonsult.com",
-          "link": "mailto:careers@arkonsult.com"
+          "display": "careers@arkonsult.comz",
+          "link": "mailto:careers@arkonsult.come"
         }
       },
-      "address": "123 Engineering Plaza, Tech District, City 12345"
+      "address": "123 Engineering Plaza, Tech District, City 123456"
     },
     "social_media": {
       "linkedin": {
         "name": "LinkedIn",
-        "url": "https://linkedin.com/company/arkonsult",
+        "url": "https://linkedin.com/company/arkonsult2",
         "icon": "Linkedin",
         "color": "hover:bg-[#0077B5]"
       },
       "youtube": {
         "name": "YouTube",
-        "url": "https://youtube.com/@arkonsult",
+        "url": "https://youtube.com/@arkonsult2",
         "icon": "Youtube",
         "color": "hover:bg-[#FF0000]"
       },
       "facebook": {
         "name": "Facebook",
-        "url": "https://facebook.com/arkonsult",
+        "url": "https://facebook.com/arkonsult2",
         "icon": "Facebook",
         "color": "hover:bg-[#1877F2]"
       },
       "twitter": {
         "name": "Twitter",
-        "url": "https://twitter.com/arkonsult",
+        "url": "https://twitter.com/arkonsult2",
         "icon": "Twitter",
         "color": "hover:bg-[#1DA1F2]"
       },
       "instagram": {
         "name": "Instagram",
-        "url": "https://instagram.com/arkonsult",
+        "url": "https://instagram.com/arkonsult2",
         "icon": "Instagram",
         "color": "hover:bg-[#E4405F]"
       }
