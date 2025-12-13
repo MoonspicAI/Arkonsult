@@ -338,7 +338,9 @@
           "description": "Comprehensive visual documentation of our projects and capabilities",
           "items": [
           
-      ]
+                    ]
+          }
+	      ]
     },
     "clients": {
       "path": "/clients",
