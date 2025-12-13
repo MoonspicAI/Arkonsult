@@ -329,16 +329,7 @@
           "font_style": "normal",
           "category": "hero_section",
           "updated_at": "2025-12-12T18:25:37.990Z"
-        },
-        {
-          "type": "media_content",
-          "name": "gallery_media_collection",
-          "title": "Engineering Excellence in Motion",
-          "description": "Comprehensive visual documentation of our projects and capabilities",
-          "items": [
-          
-                    ]
-          }
+        }
 	      ]
     },
     "clients": {
