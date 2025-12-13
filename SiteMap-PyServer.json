@@ -25,20 +25,20 @@
  
     "contact": {
       "phone": {
-        "display": "+1 (123) 456-678",
-        "link": "tel:+123456789"
+        "display": "+963 983 315 345",
+        "link": "tel:+963983315345"
       },
       "email": {
         "general": {
-          "display": "info@arkonsult.comy",
+          "display": "info@arkonsult.com",
           "link": "mailto:info@arkonsult.com"
         },
         "careers": {
-          "display": "careers@arkonsult.comz",
-          "link": "mailto:careers@arkonsult.come"
+          "display": "careers@arkonsult.com",
+          "link": "mailto:careers@arkonsult.com"
         }
       },
-      "address": "123 Engineering Plaza, Tech District, City 123456"
+      "address": "Damascus, Syria"
     },
     "social_media": {
       "linkedin": {
