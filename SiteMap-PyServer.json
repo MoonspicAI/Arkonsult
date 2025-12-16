@@ -310,32 +310,21 @@
       "title": "Gallery",
       "description": "Dynamic multimedia gallery showcasing Arkonsult's visual portfolio",
       "dynamic_content": [
-        {
-          "type": "text",
-          "name": "gallery_hero_title",
-          "content": "Visual Excellence Portfolio",
-          "font_color": "#ffffff",
-          "font_size": "48px",
-          "font_style": "bold",
-          "category": "hero_section",
-          "updated_at": "2025-12-12T18:25:37.990Z"
-        },
-        {
-          "type": "text",
-          "name": "gallery_hero_subtitle",
-          "content": "Explore our comprehensive collection of project imagery, construction progress documentation, and promotional content showcasing engineering excellence across diverse disciplines.",
-          "font_color": "#ffffff",
-          "font_size": "20px",
-          "font_style": "normal",
-          "category": "hero_section",
-          "updated_at": "2025-12-12T18:25:37.990Z"
-        }, 
-		  {
+     	
+			      {
+              "type": "image",
+              "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+              "alt": "Modern corporate office building with glass facade representing strategic business partnership",
+              "caption": "Strategic Client - Office Complex Development",
+              "order": 1
+            },
+		,  {
           "type": "media_content",
           "name": "clients_media_gallery",
           "title": "Our Clients Gallery",
           "description": "Explore our client partnerships and success stories",
           "items": [
+			  
             {
               "type": "image",
               "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
