@@ -342,6 +342,14 @@
               "alt": "Modern corporate office building with glass facade representing strategic business partnership",
               "caption": "Strategic Client - Office Complex Development",
               "order": 1
+            },
+			  
+            {
+              "type": "youtube",
+              "videoId": "dQw4w9WgXcQ",
+              "title": "Engineering Innovation Together",
+              "caption": "Collaborative innovation in engineering solutions",
+              "order": 4
             }
 		  ]
 		  }
