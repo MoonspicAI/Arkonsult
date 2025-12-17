@@ -93,18 +93,11 @@
         },
         {
           "type": "text",
-          "name": "hero_main_title",
-          "content": "Engineering Excellence Through Precision & Innovation",
-          "font_color": "#ffffff",
-          "font_size": "48px",
-          "font_style": "bold",
-          "category": "hero_text",
-          "updated_at": "2025-12-11T22:23:34.269Z"
-        },
-        {
-          "type": "text",
           "name": "hero_subtitle",
-          "content": "Transforming complex challenges into elegant solutions with comprehensive engineering capabilities and proven expertise",
+          "content": "Introduction Arkonsult Engineering Consultants is a multi-disciplinary design and
+Engineering Consultancy Firm providing services for most types of building projects.
+We specialize in the fields of Architecture, Structural, MEP, Sustainable Design
+and Civil Engineering",
           "font_color": "#ffffff",
           "font_size": "24px",
           "font_style": "normal",
