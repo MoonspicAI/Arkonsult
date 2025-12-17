@@ -15,8 +15,8 @@
     },
     "name": "Arkonsult Engineering",
     "company_profile": {
-      "pdf_url": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/6.pdf",
-      "title": "Arkonsult Company Profile 2025",
+"pdf_url": "https://bmi186.pythonanywhere.com/Arkonsult/Arkonsult_Profile.pdf",
+       "title": "Arkonsult Company Profile 2025",
       "description": "Comprehensive overview of our engineering services, capabilities, and project portfolio",
       "file_name": "Arkonsult-Company-Profile-2025.pdf",
       "updated_at": "2025-12-12T20:55:11.718634"
@@ -30,16 +30,15 @@
       },
       "email": {
         "general": {
-          "display": "info@arkonsult.comy",
-          "link": "mailto:info@arkonsult.com"
+          "display": "Arkonsult2004@gmail.com",
+          "link": "mailto:Arkonsult2004@gmail.com"
         },
         "careers": {
-          "display": "careers@arkonsult.comz",
-          "link": "mailto:careers@arkonsult.come"
+          "display": "Arkonsult2004@gmail.com",
+          "link": "mailto:Arkonsult2004@gmail.com"
         }
-      },
-      "address": "123 Engineering Plaza, Tech District, City 123456"
-    },
+      }
+        },
     "social_media": {
       "linkedin": {
         "name": "LinkedIn",
@@ -49,7 +48,7 @@
       },
       "youtube": {
         "name": "YouTube",
-        "url": "https://youtube.com/@arkonsult2",
+        "url": "https://www.youtube.com/playlist?list=PLzuKc6_QLlhK4yh6U3dlSsoq6N_2UaM5l",
         "icon": "Youtube",
         "color": "hover:bg-[#FF0000]"
       },
