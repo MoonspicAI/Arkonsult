@@ -15,11 +15,23 @@
     },
     "name": "Arkonsult Engineering",
     "company_profile": {
-"pdf_url": "https://bmi186.pythonanywhere.com/Arkonsult/Arkonsult_Profile.pdf",
-       "title": "Arkonsult Company Profile",
-      "description": "Comprehensive overview of our engineering services, capabilities, and project portfolio",
-      "file_name": "Arkonsult-Company-Profile-2025.pdf",
-      "updated_at": "2025-12-12T20:55:11.718634"
+      "english": {
+        "pdf_url": "https://bmi186.pythonanywhere.com/Arkonsult/Arkonsult_Profile(En).pdf",
+        "title": "Arkonsult Company Profile (English)",
+        "description": "Comprehensive overview of our engineering services, capabilities, and project portfolio in English",
+        "file_name": "Arkonsult-Company-Profile-2025-EN.pdf",
+        "language": "en",
+        "updated_at": "2025-12-17T21:21:33.056524"
+      },
+      "arabic": {
+        "pdf_url":"https://bmi186.pythonanywhere.com/Arkonsult/Arkonsult_Profile(Ar).pdf",
+        "title": "ملف الشركة أركونسلت",
+        "description": "نظرة شاملة على خدماتنا الهندسية وقدراتنا ومحفظة مشاريعنا باللغة العربية",
+        "file_name": "Arkonsult-Company-Profile-2025-AR.pdf",
+        "language": "ar",
+        "updated_at": "2025-12-17T21:26:20.710807"
+      },
+      "default_language": "arabic"
     },
     
  
@@ -93,7 +105,7 @@
         },
         {
           "type": "text",
-          "name": "hero_subtitle",
+          "name": "hero_main_title",
           "content": "Introduction Arkonsult Engineering Consultants is a multi-disciplinary design and Engineering Consultancy Firm providing services for most types of building projects. We specialize in the fields of Architecture, Structural, MEP, Sustainable Design and Civil Engineering",
           "font_color": "#ffffff",
           "font_size": "24px",
