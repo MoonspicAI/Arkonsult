@@ -907,6 +907,26 @@
         "en": "Engineering services offered by Arkonsult",
         "ar": "الخدمات الهندسية التي تقدمها أركونسلت"
       },
+      "service_categories": [
+        {
+          "name": {
+            "en": "Design Engineering (Master Planning, Architectural, Structural & MEP Design in Addition of Feasibility Study, Value Engineering & BMS)",
+            "ar": "الهندسة التصميمية (التخطيط الرئيسي، التصميم المعماري والإنشائي والكهروميكانيكي بالإضافة إلى دراسة الجدوى، هندسة القيمة وأنظمة إدارة المباني)"
+          }
+        },
+        {
+          "name": {
+            "en": "Construction Supervision",
+            "ar": "الإشراف على البناء"
+          }
+        },
+        {
+          "name": {
+            "en": "Project Management",
+            "ar": "إدارة المشاريع"
+          }
+        }
+      ],
       "dynamic_content": [
         {
           "type": "media_content",
