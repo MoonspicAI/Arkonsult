@@ -1,26 +1,19 @@
+
 {
   "metadata": {
     "generated_at": "2025-12-11T02:07:41.170Z",
     "website": "Arkonsult Engineering",
-    "version": "3.0.0",
-    "last_updated": "2025-12-18T05:19:44.114Z",
-    "default_language": "ar",
-    "supported_languages": ["en", "ar"]
+    "version": "2.0.0",
+    "last_updated": "2025-12-12T18:25:37.990Z"
   },
   "company_info": {
     "logo": {
       "url": "/assets/images/Screenshot_from_2025-12-09_13-53-10-1765320890377.png",
-      "alt": {
-        "en": "ARKONSULT Engineering Consultants logo featuring geometric interconnected cubic shapes in white line art with company name in bold typography",
-        "ar": "شعار مستشاري أركونسلت الهندسيين يتميز بأشكال مكعبة هندسية مترابطة بخطوط بيضاء مع اسم الشركة بطباعة غامقة"
-      },
+      "alt": "ARKONSULT Engineering Consultants logo featuring geometric interconnected cubic shapes in white line art with company name in bold typography",
       "width": "auto",
       "height": "40px"
     },
-    "name": {
-      "en": "Arkonsult Engineering",
-      "ar": "أركونسلت الهندسية"
-    },
+    "name": "Arkonsult Engineering",
     "company_profile": {
       "english": {
         "pdf_url": "https://bmi186.pythonanywhere.com/Arkonsult/Arkonsult_Profile(En).pdf",
@@ -40,6 +33,8 @@
       },
       "default_language": "arabic"
     },
+    
+ 
     "contact": {
       "phone": {
         "display": "+1 (123) 456-678",
@@ -55,49 +50,34 @@
           "link": "mailto:Arkonsult2004@gmail.com"
         }
       }
-    },
+        },
     "social_media": {
       "linkedin": {
-        "name": {
-          "en": "LinkedIn",
-          "ar": "لينكد إن"
-        },
+        "name": "LinkedIn",
         "url": "https://linkedin.com/company/arkonsult2",
         "icon": "Linkedin",
         "color": "hover:bg-[#0077B5]"
       },
       "youtube": {
-        "name": {
-          "en": "YouTube",
-          "ar": "يوتيوب"
-        },
+        "name": "YouTube",
         "url": "https://www.youtube.com/playlist?list=PLzuKc6_QLlhK4yh6U3dlSsoq6N_2UaM5l",
         "icon": "Youtube",
         "color": "hover:bg-[#FF0000]"
       },
       "facebook": {
-        "name": {
-          "en": "Facebook",
-          "ar": "فيسبوك"
-        },
+        "name": "Facebook",
         "url": "https://facebook.com/arkonsult2",
         "icon": "Facebook",
         "color": "hover:bg-[#1877F2]"
       },
       "twitter": {
-        "name": {
-          "en": "Twitter",
-          "ar": "تويتر"
-        },
+        "name": "Twitter",
         "url": "https://twitter.com/arkonsult2",
         "icon": "Twitter",
         "color": "hover:bg-[#1DA1F2]"
       },
       "instagram": {
-        "name": {
-          "en": "Instagram",
-          "ar": "إنستغرام"
-        },
+        "name": "Instagram",
         "url": "https://instagram.com/arkonsult2",
         "icon": "Instagram",
         "color": "hover:bg-[#E4405F]"
@@ -111,26 +91,14 @@
   "pages": {
     "homepage": {
       "path": "/",
-      "title": {
-        "en": "Home",
-        "ar": "الرئيسية"
-      },
-      "description": {
-        "en": "Arkonsult Engineering Portal - Comprehensive Engineering Solutions",
-        "ar": "بوابة أركونسلت الهندسية - حلول هندسية شاملة"
-      },
+      "title": "Home",
+      "description": "Arkonsult Engineering Portal - Comprehensive Engineering Solutions",
       "dynamic_content": [
         {
           "type": "pdf",
           "name": "company_profile_pdf",
-          "title": {
-            "en": "Company Profile",
-            "ar": "ملف الشركة"
-          },
-          "description": {
-            "en": "Arkonsult Company Profile",
-            "ar": "ملف شركة أركونسلت"
-          },
+          "title": "Company Profile",
+          "description": "Arkonsult Company Profile",
           "url": "",
           "category": "company_info",
           "updated_at": "2025-12-11T19:45:52.384Z"
@@ -138,560 +106,325 @@
         {
           "type": "text",
           "name": "hero_main_title",
-          "content": {
-            "en": "Introduction Arkonsult Engineering Consultants is a multi-disciplinary design and Engineering Consultancy Firm providing services for most types of building projects. We specialize in the fields of Architecture, Structural, MEP, Sustainable Design and Civil Engineering",
-            "ar": "مقدمة: أركونسلت للاستشارات الهندسية هي شركة استشارات هندسية وتصميم متعددة التخصصات تقدم خدمات لمعظم أنواع مشاريع البناء. نحن متخصصون في مجالات الهندسة المعمارية والإنشائية والكهروميكانيكية والتصميم المستدام والهندسة المدنية"
-          },
+          "content": "Introduction Arkonsult Engineering Consultants is a multi-disciplinary design and Engineering Consultancy Firm providing services for most types of building projects. We specialize in the fields of Architecture, Structural, MEP, Sustainable Design and Civil Engineering",
           "font_color": "#ffffff",
           "font_size": "24px",
           "font_style": "normal",
           "category": "hero_text",
-          "updated_at": "2025-12-18T05:19:44.114Z"
+          "updated_at": "2025-12-11T22:23:34.269Z"
         },
         {
           "type": "text",
           "name": "hero_button_profile",
-          "content": {
-            "en": "Download Company Profile",
-            "ar": "تحميل ملف الشركة"
-          },
+          "content": "Download Company Profile",
           "font_color": "#003366",
           "font_size": "16px",
           "font_style": "normal",
           "category": "hero_text",
-          "updated_at": "2025-12-18T05:19:44.114Z"
+          "updated_at": "2025-12-11T22:23:34.269Z"
         },
         {
           "type": "text",
           "name": "hero_button_services",
-          "content": {
-            "en": "Explore Our Services",
-            "ar": "استكشف خدماتنا"
-          },
+          "content": "Explore Our Services",
           "font_color": "#ffffff",
           "font_size": "16px",
           "font_style": "normal",
           "category": "hero_text",
-          "updated_at": "2025-12-18T05:19:44.114Z"
+          "updated_at": "2025-12-11T22:23:34.269Z"
         },
         {
           "type": "text",
           "name": "stat_experience_value",
-          "content": {
-            "en": "15+ Years",
-            "ar": "+15 سنة"
-          },
+          "content": "15+ Years",
           "font_color": "#ffffff",
           "font_size": "32px",
           "font_style": "bold",
           "category": "hero_stats",
-          "updated_at": "2025-12-18T05:19:44.114Z"
+          "updated_at": "2025-12-11T22:23:34.269Z"
         },
         {
           "type": "text",
           "name": "stat_experience_label",
-          "content": {
-            "en": "Industry Experience",
-            "ar": "خبرة صناعية"
-          },
+          "content": "Industry Experience",
           "font_color": "#ffffff",
           "font_size": "14px",
           "font_style": "normal",
           "category": "hero_stats",
-          "updated_at": "2025-12-18T05:19:44.114Z"
+          "updated_at": "2025-12-11T22:23:34.269Z"
         },
         {
           "type": "text",
           "name": "stat_projects_value",
-          "content": {
-            "en": "200+",
-            "ar": "+200"
-          },
+          "content": "200+",
           "font_color": "#ffffff",
           "font_size": "32px",
           "font_style": "bold",
           "category": "hero_stats",
-          "updated_at": "2025-12-18T05:19:44.114Z"
+          "updated_at": "2025-12-11T22:23:34.269Z"
         },
         {
           "type": "text",
           "name": "stat_projects_label",
-          "content": {
-            "en": "Projects Completed",
-            "ar": "مشروع مكتمل"
-          },
+          "content": "Projects Completed",
           "font_color": "#ffffff",
           "font_size": "14px",
           "font_style": "normal",
           "category": "hero_stats",
-          "updated_at": "2025-12-18T05:19:44.114Z"
+          "updated_at": "2025-12-11T22:23:34.269Z"
         },
         {
           "type": "text",
           "name": "stat_partners_value",
-          "content": {
-            "en": "50+",
-            "ar": "+50"
-          },
+          "content": "50+",
           "font_color": "#ffffff",
           "font_size": "32px",
           "font_style": "bold",
           "category": "hero_stats",
-          "updated_at": "2025-12-18T05:19:44.114Z"
+          "updated_at": "2025-12-11T22:23:34.269Z"
         },
         {
           "type": "text",
           "name": "stat_partners_label",
-          "content": {
-            "en": "Strategic Clients",
-            "ar": "عملاء استراتيجيون"
-          },
+          "content": "Strategic Clients",
           "font_color": "#ffffff",
           "font_size": "14px",
           "font_style": "normal",
           "category": "hero_stats",
-          "updated_at": "2025-12-18T05:19:44.114Z"
+          "updated_at": "2025-12-11T22:23:34.269Z"
         }
       ]
     },
     "projects_gallery": {
       "path": "/projects-gallery",
-      "title": {
-        "en": "Projects Gallery",
-        "ar": "معرض المشاريع"
-      },
-      "description": {
-        "en": "Browse all project categories",
-        "ar": "تصفح جميع فئات المشاريع"
-      },
+      "title": "Projects Gallery",
+      "description": "Browse all project categories",
       "dynamic_content": []
     },
     "individual_project_views": {
       "path": "/individual-project-views",
-      "title": {
-        "en": "Project Details",
-        "ar": "تفاصيل المشروع"
-      },
-      "description": {
-        "en": "Detailed view of individual projects with PDF documentation",
-        "ar": "عرض تفصيلي للمشاريع الفردية مع وثائق PDF"
-      },
+      "title": "Project Details",
+      "description": "Detailed view of individual projects with PDF documentation",
       "dynamic_content": [
         {
           "type": "pdf",
           "name": "master_urban_planning_pdf",
-          "title": {
-            "en": "Master Urban Planning Projects",
-            "ar": "مشاريع التخطيط الحضري الرئيسية"
-          },
-          "description": {
-            "en": "Comprehensive urban planning solutions including master planning, zoning studies, and sustainable city development",
-            "ar": "حلول التخطيط الحضري الشاملة بما في ذلك التخطيط الرئيسي ودراسات تقسيم المناطق وتطوير المدن المستدامة"
-          },
-          "url": {
-            "en": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/En/1.pdf",
-            "ar": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/1.pdf"
-          },
+          "title": "Master Urban Planning Projects",
+          "description": "Comprehensive urban planning solutions including master planning, zoning studies, and sustainable city development",
+          "url": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/1.pdf",
           "cover_image_link": "https://bmi186.pythonanywhere.com/Arkonsult/Images/1.png",
-          "category": {
-            "en": "Planning & Development",
-            "ar": "التخطيط والتطوير"
-          },
+          "category": "Planning & Development",
           "project_id": "master-urban-planning",
-          "updated_at": "2025-12-18T05:39:41.940Z"
+          "updated_at": "2025-12-11T19:45:52.384Z"
         },
         {
           "type": "pdf",
           "name": "residential_commercial_towers_pdf",
-          "title": {
-            "en": "Residential & Commercial Towers Projects",
-            "ar": "مشاريع الأبراج السكنية والتجارية"
-          },
-          "description": {
-            "en": "Advanced engineering for mixed-use towers, office buildings, and luxury residential high-rises",
-            "ar": "هندسة متقدمة للأبراج متعددة الاستخدامات والمباني المكتبية والأبراج السكنية الفاخرة"
-          },
-          "url": {
-            "en": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/En/2.pdf",
-            "ar": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/2.pdf"
-          },
+          "title": "Residential & Commercial Towers Projects",
+          "description": "Advanced engineering for mixed-use towers, office buildings, and luxury residential high-rises",
+          "url": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/2.pdf",
           "cover_image_link": "https://bmi186.pythonanywhere.com/Arkonsult/Images/2.png",
-          "category": {
-            "en": "High-Rise Development",
-            "ar": "تطوير المباني الشاهقة"
-          },
+          "category": "High-Rise Development",
           "project_id": "residential-commercial-towers",
-          "updated_at": "2025-12-18T05:39:41.940Z"
+          "updated_at": "2025-12-11T19:45:52.384Z"
         },
         {
           "type": "pdf",
           "name": "universities_educational_buildings_pdf",
-          "title": {
-            "en": "Universities & Educational Buildings Projects",
-            "ar": "مشاريع الجامعات والمباني التعليمية"
-          },
-          "description": {
-            "en": "Comprehensive engineering solutions for universities, schools, and research facilities",
-            "ar": "حلول هندسية شاملة للجامعات والمدارس ومرافق البحث"
-          },
-          "url": {
-            "en": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/En/3.pdf",
-            "ar": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/3.pdf"
-          },
+          "title": "Universities & Educational Buildings Projects",
+          "description": "Comprehensive engineering solutions for universities, schools, and research facilities",
+          "url": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/3.pdf",
           "cover_image_link": "https://bmi186.pythonanywhere.com/Arkonsult/Images/3.png",
-          "category": {
-            "en": "Educational Facilities",
-            "ar": "المرافق التعليمية"
-          },
+          "category": "Educational Facilities",
           "project_id": "universities-educational-buildings",
-          "updated_at": "2025-12-18T05:39:41.940Z"
+          "updated_at": "2025-12-11T19:45:52.384Z"
         },
         {
           "type": "pdf",
           "name": "hotels_chalets_pdf",
-          "title": {
-            "en": "Hotels & Chalets Projects",
-            "ar": "مشاريع الفنادق والشاليهات"
-          },
-          "description": {
-            "en": "Specialized engineering for hotels, resorts, chalets, and luxury accommodations",
-            "ar": "هندسة متخصصة للفنادق والمنتجعات والشاليهات والمساكن الفاخرة"
-          },
-          "url": {
-            "en": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/En/4.pdf",
-            "ar": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/4.pdf"
-          },
+          "title": "Hotels & Chalets Projects",
+          "description": "Specialized engineering for hotels, resorts, chalets, and luxury accommodations",
+          "url": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/4.pdf",
           "cover_image_link": "https://bmi186.pythonanywhere.com/Arkonsult/Images/4.png",
-          "category": {
-            "en": "Hospitality",
-            "ar": "الضيافة"
-          },
+          "category": "Hospitality",
           "project_id": "hotels-chalets",
-          "updated_at": "2025-12-18T05:39:41.940Z"
+          "updated_at": "2025-12-11T19:45:52.384Z"
         },
         {
           "type": "pdf",
           "name": "governmental_buildings_pdf",
-          "title": {
-            "en": "Governmental Buildings Projects",
-            "ar": "مشاريع المباني الحكومية"
-          },
-          "description": {
-            "en": "Engineering expertise for government buildings, public facilities, and civic centers",
-            "ar": "خبرة هندسية للمباني الحكومية والمرافق العامة والمراكز المدنية"
-          },
-          "url": {
-            "en": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/En/5.pdf",
-            "ar": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/5.pdf"
-          },
+          "title": "Governmental Buildings Projects",
+          "description": "Engineering expertise for government buildings, public facilities, and civic centers",
+          "url": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/5.pdf",
           "cover_image_link": "https://bmi186.pythonanywhere.com/Arkonsult/Images/5.png",
-          "category": {
-            "en": "Public Infrastructure",
-            "ar": "البنية التحتية العامة"
-          },
+          "category": "Public Infrastructure",
           "project_id": "governmental-buildings",
-          "updated_at": "2025-12-18T05:39:41.940Z"
+          "updated_at": "2025-12-11T19:45:52.384Z"
         },
         {
           "type": "pdf",
           "name": "showrooms_shopping_centres_pdf",
-          "title": {
-            "en": "Showrooms & Shopping Centres Projects",
-            "ar": "مشاريع صالات العرض والمراكز التجارية"
-          },
-          "description": {
-            "en": "Comprehensive engineering for retail spaces, shopping centers, and showrooms",
-            "ar": "هندسة شاملة للمساحات التجارية والمراكز التجارية وصالات العرض"
-          },
-          "url": {
-            "en": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/En/6.pdf",
-            "ar": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/6.pdf"
-          },
+          "title": "Showrooms & Shopping Centres Projects",
+          "description": "Comprehensive engineering for retail spaces, shopping centers, and showrooms",
+          "url": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/6.pdf",
           "cover_image_link": "https://bmi186.pythonanywhere.com/Arkonsult/Images/6.png",
-          "category": {
-            "en": "Commercial & Retail",
-            "ar": "تجاري وتجزئة"
-          },
+          "category": "Commercial & Retail",
           "project_id": "showrooms-shopping-centres",
-          "updated_at": "2025-12-18T05:39:41.940Z"
+          "updated_at": "2025-12-11T19:45:52.384Z"
         },
         {
           "type": "pdf",
           "name": "infrastructures_networks_pdf",
-          "title": {
-            "en": "Infrastructures Networks Projects",
-            "ar": "مشاريع شبكات البنية التحتية"
-          },
-          "description": {
-            "en": "Advanced engineering for roads, bridges, utilities, and telecommunication infrastructure",
-            "ar": "هندسة متقدمة للطرق والجسور والمرافق والبنية التحتية للاتصالات"
-          },
-          "url": {
-            "en": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/En/7.pdf",
-            "ar": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/7.pdf"
-          },
+          "title": "Infrastructures Networks Projects",
+          "description": "Advanced engineering for roads, bridges, utilities, and telecommunication infrastructure",
+          "url": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/7.pdf",
           "cover_image_link": "https://bmi186.pythonanywhere.com/Arkonsult/Images/7.png",
-          "category": {
-            "en": "Infrastructure",
-            "ar": "البنية التحتية"
-          },
+          "category": "Infrastructure",
           "project_id": "infrastructures-networks",
-          "updated_at": "2025-12-18T05:39:41.940Z"
+          "updated_at": "2025-12-11T19:45:52.384Z"
         },
         {
           "type": "pdf",
           "name": "villas_lowrise_buildings_pdf",
-          "title": {
-            "en": "Villas & Low-Rise Buildings Projects",
-            "ar": "مشاريع الفلل والمباني المنخفضة"
-          },
-          "description": {
-            "en": "Specialized engineering for villas, low-rise residential buildings, and townhouses",
-            "ar": "هندسة متخصصة للفلل والمباني السكنية المنخفضة والبيوت المتلاصقة"
-          },
-          "url": {
-            "en": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/En/8.pdf",
-            "ar": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/8.pdf"
-          },
+          "title": "Villas & Low-Rise Buildings Projects",
+          "description": "Specialized engineering for villas, low-rise residential buildings, and townhouses",
+          "url": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/8.pdf",
           "cover_image_link": "https://bmi186.pythonanywhere.com/Arkonsult/Images/8.png",
-          "category": {
-            "en": "Residential",
-            "ar": "سكني"
-          },
+          "category": "Residential",
           "project_id": "villas-lowrise-buildings",
-          "updated_at": "2025-12-18T05:39:41.940Z"
+          "updated_at": "2025-12-11T19:45:52.384Z"
         },
         {
           "type": "pdf",
           "name": "interior_designs_pdf",
-          "title": {
-            "en": "Interior Designs Projects",
-            "ar": "مشاريع التصميم الداخلي"
-          },
-          "description": {
-            "en": "Complete interior design engineering including MEP integration and lighting design",
-            "ar": "هندسة التصميم الداخلي الكامل بما في ذلك التكامل الكهروميكانيكي وتصميم الإضاءة"
-          },
-          "url": {
-            "en": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/En/9.pdf",
-            "ar": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/9.pdf"
-          },
+          "title": "Interior Designs Projects",
+          "description": "Complete interior design engineering including MEP integration and lighting design",
+          "url": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/9.pdf",
           "cover_image_link": "https://bmi186.pythonanywhere.com/Arkonsult/Images/9.png",
-          "category": {
-            "en": "Design & Finishing",
-            "ar": "التصميم والتشطيب"
-          },
+          "category": "Design & Finishing",
           "project_id": "interior-designs",
-          "updated_at": "2025-12-18T05:39:41.940Z"
+          "updated_at": "2025-12-11T19:45:52.384Z"
         }
       ]
     },
     "gallery": {
       "path": "/gallery",
-      "title": {
-        "en": "Gallery",
-        "ar": "المعرض"
-      },
-      "description": {
-        "en": "Dynamic multimedia gallery showcasing Arkonsult's visual portfolio",
-        "ar": "معرض وسائط متعددة ديناميكي يعرض محفظة أركونسلت المرئية"
-      },
+      "title": "Gallery",
+      "description": "Dynamic multimedia gallery showcasing Arkonsult's visual portfolio",
       "dynamic_content": [
         {
           "type": "text",
           "name": "gallery_hero_title",
-          "content": {
-            "en": "Visual Excellence Portfolio",
-            "ar": "محفظة التميز البصري"
-          },
+          "content": "Visual Excellence Portfolio",
           "font_color": "#ffffff",
           "font_size": "48px",
           "font_style": "bold",
           "category": "hero_section",
-          "updated_at": "2025-12-18T05:19:44.114Z"
+          "updated_at": "2025-12-12T18:25:37.990Z"
         },
         {
           "type": "text",
           "name": "gallery_hero_subtitle",
-          "content": {
-            "en": "Explore our comprehensive collection of project imagery, construction progress documentation, and promotional content showcasing engineering excellence across diverse disciplines.",
-            "ar": "استكشف مجموعتنا الشاملة من صور المشاريع ووثائق تقدم البناء والمحتوى الترويجي الذي يعرض التميز الهندسي عبر تخصصات متنوعة."
-          },
+          "content": "Explore our comprehensive collection of project imagery, construction progress documentation, and promotional content showcasing engineering excellence across diverse disciplines.",
           "font_color": "#ffffff",
           "font_size": "20px",
           "font_style": "normal",
           "category": "hero_section",
-          "updated_at": "2025-12-18T05:19:44.114Z"
+          "updated_at": "2025-12-12T18:25:37.990Z"
         },
         {
           "type": "media_content",
           "name": "gallery_media_collection",
-          "title": {
-            "en": "Engineering Excellence in Motion",
-            "ar": "التميز الهندسي في الحركة"
-          },
-          "description": {
-            "en": "Comprehensive visual documentation of our projects and capabilities",
-            "ar": "وثائق بصرية شاملة لمشاريعنا وقدراتنا"
-          },
+          "title": "Engineering Excellence in Motion",
+          "description": "Comprehensive visual documentation of our projects and capabilities",
           "items": [
             {
               "type": "youtube",
               "videoId": "ts2TnqqVpA4",
-              "title": {
-                "en": "Structural Engineering Showcase",
-                "ar": "عرض الهندسة الإنشائية"
-              },
-              "caption": {
-                "en": "Advanced structural systems and innovative building solutions",
-                "ar": "أنظمة إنشائية متقدمة وحلول بناء مبتكرة"
-              },
+              "title": "Structural Engineering Showcase",
+              "caption": "Advanced structural systems and innovative building solutions",
               "order": 2
             },
-            {
+                        {
               "type": "youtube",
               "videoId": "Dz8OG7jnxj8",
-              "title": {
-                "en": "MEP Systems Integration",
-                "ar": "تكامل الأنظمة الكهروميكانيكية"
-              },
-              "caption": {
-                "en": "Comprehensive mechanical, electrical, and plumbing engineering",
-                "ar": "هندسة ميكانيكية وكهربائية وسباكة شاملة"
-              },
+              "title": "MEP Systems Integration",
+              "caption": "Comprehensive mechanical, electrical, and plumbing engineering",
               "order": 5
             },
+          
             {
               "type": "youtube",
               "videoId": "xbrG9b2c4fA",
-              "title": {
-                "en": "Project Management Excellence",
-                "ar": "تميز إدارة المشاريع"
-              },
-              "caption": {
-                "en": "Comprehensive project delivery from concept to completion",
-                "ar": "تسليم شامل للمشروع من الفكرة إلى الإنجاز"
-              },
+              "title": "Project Management Excellence",
+              "caption": "Comprehensive project delivery from concept to completion",
               "order": 8
             },
             {
               "type": "youtube",
               "videoId": "kvxOHnfyVe8",
-              "title": {
-                "en": "Sustainable Engineering Solutions",
-                "ar": "حلول هندسية مستدامة"
-              },
-              "caption": {
-                "en": "Environmental engineering and sustainable development practices",
-                "ar": "الهندسة البيئية وممارسات التنمية المستدامة"
-              },
+              "title": "Sustainable Engineering Solutions",
+              "caption": "Environmental engineering and sustainable development practices",
               "order": 11
             },
-            {
+          {
               "type": "youtube",
               "videoId": "BNWigVzrVrY",
-              "title": {
-                "en": "First Steps to Engineering Greatness",
-                "ar": "الخطوات الأولى نحو العظمة الهندسية"
-              },
-              "caption": {
-                "en": "Explore the foundational principles behind engineering excellence and innovation",
-                "ar": "استكشف المبادئ الأساسية وراء التميز الهندسي والابتكار"
-              },
+              "title": "First Steps to Engineering Greatness",
+              "caption": "Explore the foundational principles behind engineering excellence and innovation",
               "order": 13
             },
-            {
+          {
               "type": "youtube",
               "videoId": "j9JL7WMq3TQ",
-              "title": {
-                "en": "First Steps to Engineering Greatness",
-                "ar": "الخطوات الأولى نحو العظمة الهندسية"
-              },
-              "caption": {
-                "en": "Explore the foundational principles behind engineering excellence and innovation",
-                "ar": "استكشف المبادئ الأساسية وراء التميز الهندسي والابتكار"
-              },
+              "title": "First Steps to Engineering Greatness",
+              "caption": "Explore the foundational principles behind engineering excellence and innovation",
               "order": 13
             },
-            {
+          {
               "type": "youtube",
               "videoId": "jm2mJSGs8cI",
-              "title": {
-                "en": "First Steps to Engineering Greatness",
-                "ar": "الخطوات الأولى نحو العظمة الهندسية"
-              },
-              "caption": {
-                "en": "Explore the foundational principles behind engineering excellence and innovation",
-                "ar": "استكشف المبادئ الأساسية وراء التميز الهندسي والابتكار"
-              },
+              "title": "First Steps to Engineering Greatness",
+              "caption": "Explore the foundational principles behind engineering excellence and innovation",
               "order": 13
             },
-            {
+            
+          {
               "type": "youtube",
               "videoId": "7MiwkAgNpo0",
-              "title": {
-                "en": "First Steps to Engineering Greatness",
-                "ar": "الخطوات الأولى نحو العظمة الهندسية"
-              },
-              "caption": {
-                "en": "Explore the foundational principles behind engineering excellence and innovation",
-                "ar": "استكشف المبادئ الأساسية وراء التميز الهندسي والابتكار"
-              },
+              "title": "First Steps to Engineering Greatness",
+              "caption": "Explore the foundational principles behind engineering excellence and innovation",
               "order": 13
             }
           ],
-          "updated_at": "2025-12-18T05:19:44.114Z"
+          "updated_at": "2025-12-12T18:25:37.990Z"
         }
       ]
     },
     "clients": {
       "path": "/clients",
-      "title": {
-        "en": "Clients",
-        "ar": "العملاء"
-      },
-      "description": {
-        "en": "Our strategic clients and collaborators",
-        "ar": "عملاؤنا الاستراتيجيون والمتعاونون"
-      },
+      "title": "Clients",
+      "description": "Our strategic clients and collaborators",
       "dynamic_content": [
         {
           "type": "images",
           "name": "partner_logos",
-          "title": {
-            "en": "Client Logos",
-            "ar": "شعارات العملاء"
-          },
-          "description": {
-            "en": "Logos of client organizations",
-            "ar": "شعارات المؤسسات العملاء"
-          },
+          "title": "Client Logos",
+          "description": "Logos of client organizations",
           "items": [],
           "updated_at": "2025-12-11T19:45:52.384Z"
         },
         {
           "type": "media_content",
           "name": "partners_media_gallery",
-          "title": {
-            "en": "",
-            "ar": ""
-          },
-          "description": {
-            "en": "",
-            "ar": ""
-          },
+          "title": "",
+          "description": "",
           "items": [
-            {
+                        {
               "type": "image",
               "url": "https://bmi186.pythonanywhere.com/Arkonsult/Images/clients.png",
-              "alt": {
-                "en": "Strategic business partnership",
-                "ar": "شراكة عمل استراتيجية"
-              },
-              "caption": {
-                "en": "Strategic Client - Office Complex Development",
-                "ar": "عميل استراتيجي - تطوير المجمعات المكتبية"
-              },
+              "alt": "Strategic business partnership",
+              "caption": "Strategic Client - Office Complex Development",
               "order": 1
             }
           ],
@@ -701,256 +434,152 @@
     },
     "our_clients": {
       "path": "/our-clients",
-      "title": {
-        "en": "Our Clients",
-        "ar": "عملاؤنا"
-      },
-      "description": {
-        "en": "Companies and organizations we've worked with",
-        "ar": "الشركات والمؤسسات التي عملنا معها"
-      },
+      "title": "Our Clients",
+      "description": "Companies and organizations we've worked with",
       "dynamic_content": [
         {
           "type": "images",
           "name": "client_logos",
-          "title": {
-            "en": "Client Logos",
-            "ar": "شعارات العملاء"
-          },
-          "description": {
-            "en": "Logos of client organizations",
-            "ar": "شعارات المؤسسات العملاء"
-          },
+          "title": "Client Logos",
+          "description": "Logos of client organizations",
           "items": [],
           "updated_at": "2025-12-11T19:45:52.384Z"
         },
         {
           "type": "text",
           "name": "partnerships_title",
-          "content": {
-            "en": "Strategic Partnerships",
-            "ar": "شراكات استراتيجية"
-          },
+          "content": "Strategic Partnerships",
           "font_color": "#1a1a1a",
           "font_size": "32px",
           "font_style": "bold",
           "category": "partnerships_section",
-          "updated_at": "2025-12-18T05:19:44.114Z"
+          "updated_at": "2025-12-11T23:42:03.000Z"
         },
         {
           "type": "text",
           "name": "partnerships_description",
-          "content": {
-            "en": "Building excellence through collaboration. Our strategic alliances represent decades of combined expertise, enabling us to deliver comprehensive engineering solutions that exceed expectations.",
-            "ar": "بناء التميز من خلال التعاون. تمثل تحالفاتنا الاستراتيجية عقودًا من الخبرة المشتركة، مما يمكننا من تقديم حلول هندسية شاملة تتجاوز التوقعات."
-          },
+          "content": "Building excellence through collaboration. Our strategic alliances represent decades of combined expertise, enabling us to deliver comprehensive engineering solutions that exceed expectations.",
           "font_color": "#666666",
           "font_size": "18px",
           "font_style": "normal",
           "category": "partnerships_section",
-          "updated_at": "2025-12-18T05:19:44.114Z"
+          "updated_at": "2025-12-11T23:42:03.000Z"
         },
         {
           "type": "text",
           "name": "stat_partners_value",
-          "content": {
-            "en": "50+",
-            "ar": "+50"
-          },
+          "content": "50+",
           "font_color": "#003366",
           "font_size": "32px",
           "font_style": "bold",
           "category": "partnerships_stats",
-          "updated_at": "2025-12-18T05:19:44.114Z"
+          "updated_at": "2025-12-11T23:42:03.000Z"
         },
         {
           "type": "text",
           "name": "stat_partners_label",
-          "content": {
-            "en": "Active Partners",
-            "ar": "شركاء نشطون"
-          },
+          "content": "Active Partners",
           "font_color": "#1a1a1a",
           "font_size": "18px",
           "font_style": "bold",
           "category": "partnerships_stats",
-          "updated_at": "2025-12-18T05:19:44.114Z"
+          "updated_at": "2025-12-11T23:42:03.000Z"
         },
         {
           "type": "text",
           "name": "stat_years_value",
-          "content": {
-            "en": "15+",
-            "ar": "+15"
-          },
+          "content": "15+",
           "font_color": "#003366",
           "font_size": "32px",
           "font_style": "bold",
           "category": "partnerships_stats",
-          "updated_at": "2025-12-18T05:19:44.114Z"
+          "updated_at": "2025-12-11T23:42:03.000Z"
         },
         {
           "type": "text",
           "name": "stat_years_label",
-          "content": {
-            "en": "Years Collaboration",
-            "ar": "سنوات من التعاون"
-          },
+          "content": "Years Collaboration",
           "font_color": "#1a1a1a",
           "font_size": "18px",
           "font_style": "bold",
           "category": "partnerships_stats",
-          "updated_at": "2025-12-18T05:19:44.114Z"
+          "updated_at": "2025-12-11T23:42:03.000Z"
         },
         {
           "type": "text",
           "name": "stat_projects_value",
-          "content": {
-            "en": "200+",
-            "ar": "+200"
-          },
+          "content": "200+",
           "font_color": "#003366",
           "font_size": "32px",
           "font_style": "bold",
           "category": "partnerships_stats",
-          "updated_at": "2025-12-18T05:19:44.114Z"
+          "updated_at": "2025-12-11T23:42:03.000Z"
         },
         {
           "type": "text",
           "name": "stat_projects_label",
-          "content": {
-            "en": "Joint Projects",
-            "ar": "مشاريع مشتركة"
-          },
+          "content": "Joint Projects",
           "font_color": "#1a1a1a",
           "font_size": "18px",
           "font_style": "bold",
           "category": "partnerships_stats",
-          "updated_at": "2025-12-18T05:19:44.114Z"
+          "updated_at": "2025-12-11T23:42:03.000Z"
         },
         {
           "type": "media_content",
           "name": "clients_media_gallery",
-          "title": {
-            "en": "Our Clients Gallery",
-            "ar": "معرض عملائنا"
-          },
-          "description": {
-            "en": "Explore our client partnerships and success stories",
-            "ar": "استكشف شراكات عملائنا وقصص النجاح"
-          },
+          "title": "Our Clients Gallery",
+          "description": "Explore our client partnerships and success stories",
           "items": [
             {
               "type": "image",
               "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
-              "alt": {
-                "en": "Modern corporate office building with glass facade representing strategic business partnership",
-                "ar": "مبنى مكاتب شركات حديث بواجهة زجاجية يمثل شراكة عمل استراتيجية"
-              },
-              "caption": {
-                "en": "Strategic Client - Office Complex Development",
-                "ar": "عميل استراتيجي - تطوير المجمعات المكتبية"
-              },
+              "alt": "Modern corporate office building with glass facade representing strategic business partnership",
+              "caption": "Strategic Client - Office Complex Development",
               "order": 1
             },
             {
               "type": "youtube",
               "videoId": "dQw4w9WgXcQ",
-              "title": {
-                "en": "Client Success Story",
-                "ar": "قصة نجاح العميل"
-              },
-              "caption": {
-                "en": "Watch how our client relationships deliver exceptional results",
-                "ar": "شاهد كيف تحقق علاقات عملائنا نتائج استثنائية"
-              },
+              "title": "Client Success Story",
+              "caption": "Watch how our client relationships deliver exceptional results",
               "order": 2
             },
             {
               "type": "image",
               "url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
-              "alt": {
-                "en": "Professional business team meeting discussing engineering project collaboration",
-                "ar": "اجتماع فريق عمل محترف يناقش التعاون في المشاريع الهندسية"
-              },
-              "caption": {
-                "en": "Collaborative Engineering Excellence",
-                "ar": "التميز الهندسي التعاوني"
-              },
+              "alt": "Professional business team meeting discussing engineering project collaboration",
+              "caption": "Collaborative Engineering Excellence",
               "order": 3
             },
             {
               "type": "youtube",
               "videoId": "dQw4w9WgXcQ",
-              "title": {
-                "en": "Engineering Innovation Together",
-                "ar": "الابتكار الهندسي معًا"
-              },
-              "caption": {
-                "en": "Collaborative innovation in engineering solutions",
-                "ar": "الابتكار التعاوني في الحلول الهندسية"
-              },
+              "title": "Engineering Innovation Together",
+              "caption": "Collaborative innovation in engineering solutions",
               "order": 4
             }
           ],
-          "updated_at": "2025-12-18T05:19:44.114Z"
+          "updated_at": "2025-12-11T23:42:03.000Z"
         }
       ]
     },
     "services": {
       "path": "/services",
-      "title": {
-        "en": "Services",
-        "ar": "الخدمات"
-      },
-      "description": {
-        "en": "Engineering services offered by Arkonsult",
-        "ar": "الخدمات الهندسية التي تقدمها أركونسلت"
-      },
-      "service_categories": [
-        {
-          "name": {
-            "en": "Design Engineering (Master Planning, Architectural, Structural & MEP Design in Addition of Feasibility Study, Value Engineering & BMS)",
-            "ar": "الهندسة التصميمية (التخطيط الرئيسي، التصميم المعماري والإنشائي والكهروميكانيكي بالإضافة إلى دراسة الجدوى، هندسة القيمة وأنظمة إدارة المباني)"
-          }
-        },
-        {
-          "name": {
-            "en": "Construction Supervision",
-            "ar": "الإشراف على البناء"
-          }
-        },
-        {
-          "name": {
-            "en": "Project Management",
-            "ar": "إدارة المشاريع"
-          }
-        }
-      ],
+      "title": "Services",
+      "description": "Engineering services offered by Arkonsult",
       "dynamic_content": [
         {
           "type": "media_content",
           "name": "services_media_gallery",
-          "title": {
-            "en": "",
-            "ar": ""
-          },
-          "description": {
-            "en": "",
-            "ar": ""
-          },
+          "title": "",
+          "description": "",
           "items": [
-            {
+           {
               "type": "image",
               "url": "https://bmi186.pythonanywhere.com/Arkonsult/Images/services.png",
-              "alt": {
-                "en": "Construction site with heavy machinery and structural steel framework being erected",
-                "ar": "موقع بناء مع آلات ثقيلة وإطار فولاذي إنشائي قيد التشييد"
-              },
-              "caption": {
-                "en": "On-Site Engineering Implementation",
-                "ar": "التنفيذ الهندسي في الموقع"
-              },
+              "alt": "Construction site with heavy machinery and structural steel framework being erected",
+              "caption": "On-Site Engineering Implementation",
               "order": 3
             }
           ],
@@ -960,155 +589,85 @@
     },
     "contact": {
       "path": "/contact",
-      "title": {
-        "en": "Contact",
-        "ar": "اتصل بنا"
-      },
-      "description": {
-        "en": "Contact information and inquiry form",
-        "ar": "معلومات الاتصال ونموذج الاستفسار"
-      },
+      "title": "Contact",
+      "description": "Contact information and inquiry form",
       "dynamic_content": []
     },
     "admin_dashboard": {
       "path": "/admin-dashboard",
-      "title": {
-        "en": "Admin Dashboard",
-        "ar": "لوحة الإدارة"
-      },
-      "description": {
-        "en": "Administration panel for managing site content",
-        "ar": "لوحة الإدارة لإدارة محتوى الموقع"
-      },
+      "title": "Admin Dashboard",
+      "description": "Administration panel for managing site content",
       "dynamic_content": []
     }
   },
   "navigation": {
     "main_menu": [
       {
-        "label": {
-          "en": "Home",
-          "ar": "الرئيسية"
-        },
+        "label": "Home",
         "path": "/"
       },
       {
-        "label": {
-          "en": "Services",
-          "ar": "الخدمات"
-        },
+        "label": "Services",
         "path": "/services"
       },
       {
-        "label": {
-          "en": "Projects",
-          "ar": "المشاريع"
-        },
+        "label": "Projects",
         "path": "/projects-gallery"
       },
       {
-        "label": {
-          "en": "Gallery",
-          "ar": "المعرض"
-        },
+        "label": "Gallery",
         "path": "/gallery"
       },
       {
-        "label": {
-          "en": "Clients",
-          "ar": "العملاء"
-        },
+        "label": "Clients",
         "path": "/clients"
       },
       {
-        "label": {
-          "en": "Clients",
-          "ar": "العملاء"
-        },
+        "label": "Clients",
         "path": "/our-clients"
       },
       {
-        "label": {
-          "en": "Contact",
-          "ar": "اتصل بنا"
-        },
+        "label": "Contact",
         "path": "/contact"
       }
     ],
     "footer_menu": [
       {
-        "label": {
-          "en": "Services",
-          "ar": "الخدمات"
-        },
+        "label": "Services",
         "path": "/services"
       },
       {
-        "label": {
-          "en": "Projects",
-          "ar": "المشاريع"
-        },
+        "label": "Projects",
         "path": "/projects-gallery"
       },
       {
-        "label": {
-          "en": "Gallery",
-          "ar": "المعرض"
-        },
+        "label": "Gallery",
         "path": "/gallery"
       },
       {
-        "label": {
-          "en": "Clients",
-          "ar": "العملاء"
-        },
+        "label": "Clients",
         "path": "/clients"
       },
       {
-        "label": {
-          "en": "Contact",
-          "ar": "اتصل بنا"
-        },
+        "label": "Contact",
         "path": "/contact"
       }
     ]
   },
   "seo": {
-    "site_name": {
-      "en": "Arkonsult Engineering",
-      "ar": "أركونسلت الهندسية"
-    },
-    "default_title": {
-      "en": "Arkonsult Engineering Portal",
-      "ar": "بوابة أركونسلت الهندسية"
-    },
-    "default_description": {
-      "en": "Comprehensive engineering solutions including structural, civil, MEP, and environmental engineering services",
-      "ar": "حلول هندسية شاملة بما في ذلك خدمات الهندسة الإنشائية والمدنية والكهروميكانيكية والبيئية"
-    },
-    "keywords": {
-      "en": [
-        "engineering consultancy",
-        "structural engineering",
-        "civil engineering",
-        "MEP engineering",
-        "project management",
-        "geotechnical engineering",
-        "environmental engineering",
-        "urban planning",
-        "infrastructure development"
-      ],
-      "ar": [
-        "استشارات هندسية",
-        "الهندسة الإنشائية",
-        "الهندسة المدنية",
-        "الهندسة الكهروميكانيكية",
-        "إدارة المشاريع",
-        "الهندسة الجيوتقنية",
-        "الهندسة البيئية",
-        "التخطيط الحضري",
-        "تطوير البنية التحتية"
-      ]
-    }
+    "site_name": "Arkonsult Engineering",
+    "default_title": "Arkonsult Engineering Portal",
+    "default_description": "Comprehensive engineering solutions including structural, civil, MEP, and environmental engineering services",
+    "keywords": [
+      "engineering consultancy",
+      "structural engineering",
+      "civil engineering",
+      "MEP engineering",
+      "project management",
+      "geotechnical engineering",
+      "environmental engineering",
+      "urban planning",
+      "infrastructure development"
+    ]
   }
 }
