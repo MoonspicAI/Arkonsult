@@ -288,14 +288,17 @@
             "en": "Comprehensive urban planning solutions including master planning, zoning studies, and sustainable city development",
             "ar": "حلول التخطيط الحضري الشاملة بما في ذلك التخطيط الرئيسي ودراسات تقسيم المناطق وتطوير المدن المستدامة"
           },
-          "url": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/1.pdf",
+          "url": {
+            "en": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/En/1.pdf",
+            "ar": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/1.pdf"
+          },
           "cover_image_link": "https://bmi186.pythonanywhere.com/Arkonsult/Images/1.png",
           "category": {
             "en": "Planning & Development",
             "ar": "التخطيط والتطوير"
           },
           "project_id": "master-urban-planning",
-          "updated_at": "2025-12-11T19:45:52.384Z"
+          "updated_at": "2025-12-18T05:39:41.940Z"
         },
         {
           "type": "pdf",
@@ -308,14 +311,17 @@
             "en": "Advanced engineering for mixed-use towers, office buildings, and luxury residential high-rises",
             "ar": "هندسة متقدمة للأبراج متعددة الاستخدامات والمباني المكتبية والأبراج السكنية الفاخرة"
           },
-          "url": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/2.pdf",
+          "url": {
+            "en": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/En/2.pdf",
+            "ar": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/2.pdf"
+          },
           "cover_image_link": "https://bmi186.pythonanywhere.com/Arkonsult/Images/2.png",
           "category": {
             "en": "High-Rise Development",
             "ar": "تطوير المباني الشاهقة"
           },
           "project_id": "residential-commercial-towers",
-          "updated_at": "2025-12-11T19:45:52.384Z"
+          "updated_at": "2025-12-18T05:39:41.940Z"
         },
         {
           "type": "pdf",
@@ -328,14 +334,17 @@
             "en": "Comprehensive engineering solutions for universities, schools, and research facilities",
             "ar": "حلول هندسية شاملة للجامعات والمدارس ومرافق البحث"
           },
-          "url": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/3.pdf",
+          "url": {
+            "en": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/En/3.pdf",
+            "ar": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/3.pdf"
+          },
           "cover_image_link": "https://bmi186.pythonanywhere.com/Arkonsult/Images/3.png",
           "category": {
             "en": "Educational Facilities",
             "ar": "المرافق التعليمية"
           },
           "project_id": "universities-educational-buildings",
-          "updated_at": "2025-12-11T19:45:52.384Z"
+          "updated_at": "2025-12-18T05:39:41.940Z"
         },
         {
           "type": "pdf",
@@ -348,14 +357,17 @@
             "en": "Specialized engineering for hotels, resorts, chalets, and luxury accommodations",
             "ar": "هندسة متخصصة للفنادق والمنتجعات والشاليهات والمساكن الفاخرة"
           },
-          "url": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/4.pdf",
+          "url": {
+            "en": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/En/4.pdf",
+            "ar": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/4.pdf"
+          },
           "cover_image_link": "https://bmi186.pythonanywhere.com/Arkonsult/Images/4.png",
           "category": {
             "en": "Hospitality",
             "ar": "الضيافة"
           },
           "project_id": "hotels-chalets",
-          "updated_at": "2025-12-11T19:45:52.384Z"
+          "updated_at": "2025-12-18T05:39:41.940Z"
         },
         {
           "type": "pdf",
@@ -368,14 +380,17 @@
             "en": "Engineering expertise for government buildings, public facilities, and civic centers",
             "ar": "خبرة هندسية للمباني الحكومية والمرافق العامة والمراكز المدنية"
           },
-          "url": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/5.pdf",
+          "url": {
+            "en": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/En/5.pdf",
+            "ar": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/5.pdf"
+          },
           "cover_image_link": "https://bmi186.pythonanywhere.com/Arkonsult/Images/5.png",
           "category": {
             "en": "Public Infrastructure",
             "ar": "البنية التحتية العامة"
           },
           "project_id": "governmental-buildings",
-          "updated_at": "2025-12-11T19:45:52.384Z"
+          "updated_at": "2025-12-18T05:39:41.940Z"
         },
         {
           "type": "pdf",
@@ -388,14 +403,17 @@
             "en": "Comprehensive engineering for retail spaces, shopping centers, and showrooms",
             "ar": "هندسة شاملة للمساحات التجارية والمراكز التجارية وصالات العرض"
           },
-          "url": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/6.pdf",
+          "url": {
+            "en": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/En/6.pdf",
+            "ar": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/6.pdf"
+          },
           "cover_image_link": "https://bmi186.pythonanywhere.com/Arkonsult/Images/6.png",
           "category": {
             "en": "Commercial & Retail",
             "ar": "تجاري وتجزئة"
           },
           "project_id": "showrooms-shopping-centres",
-          "updated_at": "2025-12-11T19:45:52.384Z"
+          "updated_at": "2025-12-18T05:39:41.940Z"
         },
         {
           "type": "pdf",
@@ -408,14 +426,17 @@
             "en": "Advanced engineering for roads, bridges, utilities, and telecommunication infrastructure",
             "ar": "هندسة متقدمة للطرق والجسور والمرافق والبنية التحتية للاتصالات"
           },
-          "url": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/7.pdf",
+          "url": {
+            "en": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/En/7.pdf",
+            "ar": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/7.pdf"
+          },
           "cover_image_link": "https://bmi186.pythonanywhere.com/Arkonsult/Images/7.png",
           "category": {
             "en": "Infrastructure",
             "ar": "البنية التحتية"
           },
           "project_id": "infrastructures-networks",
-          "updated_at": "2025-12-11T19:45:52.384Z"
+          "updated_at": "2025-12-18T05:39:41.940Z"
         },
         {
           "type": "pdf",
@@ -428,14 +449,17 @@
             "en": "Specialized engineering for villas, low-rise residential buildings, and townhouses",
             "ar": "هندسة متخصصة للفلل والمباني السكنية المنخفضة والبيوت المتلاصقة"
           },
-          "url": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/8.pdf",
+          "url": {
+            "en": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/En/8.pdf",
+            "ar": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/8.pdf"
+          },
           "cover_image_link": "https://bmi186.pythonanywhere.com/Arkonsult/Images/8.png",
           "category": {
             "en": "Residential",
             "ar": "سكني"
           },
           "project_id": "villas-lowrise-buildings",
-          "updated_at": "2025-12-11T19:45:52.384Z"
+          "updated_at": "2025-12-18T05:39:41.940Z"
         },
         {
           "type": "pdf",
@@ -448,14 +472,17 @@
             "en": "Complete interior design engineering including MEP integration and lighting design",
             "ar": "هندسة التصميم الداخلي الكامل بما في ذلك التكامل الكهروميكانيكي وتصميم الإضاءة"
           },
-          "url": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/9.pdf",
+          "url": {
+            "en": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/En/9.pdf",
+            "ar": "https://bmi186.pythonanywhere.com/Arkonsult/PDFs/9.pdf"
+          },
           "cover_image_link": "https://bmi186.pythonanywhere.com/Arkonsult/Images/9.png",
           "category": {
             "en": "Design & Finishing",
             "ar": "التصميم والتشطيب"
           },
           "project_id": "interior-designs",
-          "updated_at": "2025-12-11T19:45:52.384Z"
+          "updated_at": "2025-12-18T05:39:41.940Z"
         }
       ]
     },
